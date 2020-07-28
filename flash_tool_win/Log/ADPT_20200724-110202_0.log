@@ -1,0 +1,1410 @@
+[0000001] [11:02:02:486984] [Tid0x00002310] [debug] -->[C1] DL_LoadScatter #(api.cpp, line:2481)
+[0000002] [11:02:02:611979] [Tid0x00002310] [debug] used lib version: 2 #(api.cpp, line:2503)
+[0000003] [11:02:02:611979] [Tid0x00002310] [debug] <--[C1] DL_LoadScatter
+[0000004] [11:02:02:611979] [Tid0x00002310] [debug] -->[C2] DL_AutoLoadRomImages #(api.cpp, line:2701)
+[0000005] [11:02:03:330714] [Tid0x00002310] [debug] <--[C2] DL_AutoLoadRomImages
+[0000006] [11:02:03:346336] [Tid0x00002310] [debug] -->[C3] DL_GetCount #(api.cpp, line:2621)
+[0000007] [11:02:03:346336] [Tid0x00002310] [debug] <--[C3] DL_GetCount
+[0000008] [11:02:03:346336] [Tid0x00002310] [debug] -->[C4] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000009] [11:02:03:346336] [Tid0x00002310] [debug] <--[C4] DL_Rom_GetInfoAll
+[0000010] [11:02:03:346336] [Tid0x00002310] [debug] -->[C5] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000011] [11:02:03:346336] [Tid0x00002310] [debug] -->[C6] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000012] [11:03:17:316498] [Tid0x00002310] [debug] <--[C6] cflashtool_api::DL_VerifyROMMemBuf
+[0000013] [11:03:17:316498] [Tid0x00002310] [debug] <--[C5] DL_VerifyROMMemBuf
+[0000014] [11:03:17:316498] [Tid0x00002310] [debug] -->[C7] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000015] [11:03:17:316498] [Tid0x00002310] [debug] -->[C8] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000016] [11:03:17:316498] [Tid0x00002310] [debug] <--[C8] cflashtool_api::DL_VerifyROMMemBuf
+[0000017] [11:03:17:316498] [Tid0x00002310] [debug] <--[C7] DL_VerifyROMMemBuf
+[0000018] [11:03:17:316498] [Tid0x00002310] [debug] -->[C9] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000019] [11:03:17:316498] [Tid0x00002310] [debug] -->[C10] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000020] [11:03:17:316498] [Tid0x00002310] [debug] <--[C10] cflashtool_api::DL_VerifyROMMemBuf
+[0000021] [11:03:17:316498] [Tid0x00002310] [debug] <--[C9] DL_VerifyROMMemBuf
+[0000022] [11:03:17:316498] [Tid0x00002310] [debug] -->[C11] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000023] [11:03:17:316498] [Tid0x00002310] [debug] -->[C12] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000024] [11:03:17:316498] [Tid0x00002310] [debug] <--[C12] cflashtool_api::DL_VerifyROMMemBuf
+[0000025] [11:03:17:316498] [Tid0x00002310] [debug] <--[C11] DL_VerifyROMMemBuf
+[0000026] [11:03:17:316498] [Tid0x00002310] [debug] -->[C13] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000027] [11:03:17:316498] [Tid0x00002310] [debug] -->[C14] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000028] [11:03:17:316498] [Tid0x00002310] [debug] <--[C14] cflashtool_api::DL_VerifyROMMemBuf
+[0000029] [11:03:17:316498] [Tid0x00002310] [debug] <--[C13] DL_VerifyROMMemBuf
+[0000030] [11:03:17:316498] [Tid0x00002310] [debug] -->[C15] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000031] [11:03:17:316498] [Tid0x00002310] [debug] -->[C16] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000032] [11:03:17:316498] [Tid0x00002310] [debug] <--[C16] cflashtool_api::DL_VerifyROMMemBuf
+[0000033] [11:03:17:316498] [Tid0x00002310] [debug] <--[C15] DL_VerifyROMMemBuf
+[0000034] [11:03:17:316498] [Tid0x00002310] [debug] -->[C17] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000035] [11:03:17:316498] [Tid0x00002310] [debug] -->[C18] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000036] [11:03:17:316498] [Tid0x00002310] [debug] <--[C18] cflashtool_api::DL_VerifyROMMemBuf
+[0000037] [11:03:17:316498] [Tid0x00002310] [debug] <--[C17] DL_VerifyROMMemBuf
+[0000038] [11:03:17:316498] [Tid0x00002310] [debug] -->[C19] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000039] [11:03:17:316498] [Tid0x00002310] [debug] -->[C20] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000040] [11:03:17:316498] [Tid0x00002310] [debug] <--[C20] cflashtool_api::DL_VerifyROMMemBuf
+[0000041] [11:03:17:316498] [Tid0x00002310] [debug] <--[C19] DL_VerifyROMMemBuf
+[0000042] [11:03:17:316498] [Tid0x00002310] [debug] -->[C21] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000043] [11:03:17:316498] [Tid0x00002310] [debug] -->[C22] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000044] [11:03:17:316498] [Tid0x00002310] [debug] <--[C22] cflashtool_api::DL_VerifyROMMemBuf
+[0000045] [11:03:17:316498] [Tid0x00002310] [debug] <--[C21] DL_VerifyROMMemBuf
+[0000046] [11:03:17:316498] [Tid0x00002310] [debug] -->[C23] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000047] [11:03:17:316498] [Tid0x00002310] [debug] -->[C24] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000048] [11:03:17:316498] [Tid0x00002310] [debug] <--[C24] cflashtool_api::DL_VerifyROMMemBuf
+[0000049] [11:03:17:316498] [Tid0x00002310] [debug] <--[C23] DL_VerifyROMMemBuf
+[0000050] [11:03:17:316498] [Tid0x00002310] [debug] -->[C25] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000051] [11:03:17:316498] [Tid0x00002310] [debug] -->[C26] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000052] [11:03:17:316498] [Tid0x00002310] [debug] <--[C26] cflashtool_api::DL_VerifyROMMemBuf
+[0000053] [11:03:17:316498] [Tid0x00002310] [debug] <--[C25] DL_VerifyROMMemBuf
+[0000054] [11:03:17:316498] [Tid0x00002310] [debug] -->[C27] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000055] [11:03:17:316498] [Tid0x00002310] [debug] -->[C28] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000056] [11:03:17:316498] [Tid0x00002310] [debug] <--[C28] cflashtool_api::DL_VerifyROMMemBuf
+[0000057] [11:03:17:316498] [Tid0x00002310] [debug] <--[C27] DL_VerifyROMMemBuf
+[0000058] [11:03:17:316498] [Tid0x00002310] [debug] -->[C29] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000059] [11:03:17:316498] [Tid0x00002310] [debug] -->[C30] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000060] [11:03:17:316498] [Tid0x00002310] [debug] <--[C30] cflashtool_api::DL_VerifyROMMemBuf
+[0000061] [11:03:17:316498] [Tid0x00002310] [debug] <--[C29] DL_VerifyROMMemBuf
+[0000062] [11:03:17:316498] [Tid0x00002310] [debug] -->[C31] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000063] [11:03:17:316498] [Tid0x00002310] [debug] -->[C32] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000064] [11:03:17:316498] [Tid0x00002310] [debug] <--[C32] cflashtool_api::DL_VerifyROMMemBuf
+[0000065] [11:03:17:316498] [Tid0x00002310] [debug] <--[C31] DL_VerifyROMMemBuf
+[0000066] [11:03:17:316498] [Tid0x00002310] [debug] -->[C33] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000067] [11:03:17:316498] [Tid0x00002310] [debug] -->[C34] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000068] [11:03:17:316498] [Tid0x00002310] [debug] <--[C34] cflashtool_api::DL_VerifyROMMemBuf
+[0000069] [11:03:17:316498] [Tid0x00002310] [debug] <--[C33] DL_VerifyROMMemBuf
+[0000070] [11:03:17:316498] [Tid0x00002310] [debug] -->[C35] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000071] [11:03:17:316498] [Tid0x00002310] [debug] -->[C36] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000072] [11:03:17:316498] [Tid0x00002310] [debug] <--[C36] cflashtool_api::DL_VerifyROMMemBuf
+[0000073] [11:03:17:316498] [Tid0x00002310] [debug] <--[C35] DL_VerifyROMMemBuf
+[0000074] [11:03:19:847660] [Tid0x00000dbc] [debug] -->[C37] DL_GetCount #(api.cpp, line:2621)
+[0000075] [11:03:19:847660] [Tid0x00000dbc] [debug] <--[C37] DL_GetCount
+[0000076] [11:03:19:847660] [Tid0x00000dbc] [debug] -->[C38] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000077] [11:03:19:847660] [Tid0x00000dbc] [debug] <--[C38] DL_Rom_GetInfoAll
+[0000078] [11:03:19:910209] [Tid0x00000dbc] [debug] -->[C39] DL_GetScatterInfo #(api.cpp, line:2722)
+[0000079] [11:03:19:910209] [Tid0x00000dbc] [debug] <--[C39] DL_GetScatterInfo
+[0000080] [11:03:19:988286] [Tid0x00000dbc] [debug] -->[C40] DL_GetCount #(api.cpp, line:2621)
+[0000081] [11:03:19:988286] [Tid0x00000dbc] [debug] <--[C40] DL_GetCount
+[0000082] [11:03:19:988286] [Tid0x00000dbc] [debug] -->[C41] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000083] [11:03:19:988286] [Tid0x00000dbc] [debug] <--[C41] DL_Rom_GetInfoAll
+[0000084] [11:03:20:004018] [Tid0x00000dbc] [debug] -->[C42] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000085] [11:03:20:004018] [Tid0x00000dbc] [debug] <--[C42] DL_Rom_SetEnableAttr
+[0000086] [11:03:20:004018] [Tid0x00000dbc] [debug] -->[C43] DL_GetCount #(api.cpp, line:2621)
+[0000087] [11:03:20:004018] [Tid0x00000dbc] [debug] <--[C43] DL_GetCount
+[0000088] [11:03:20:004018] [Tid0x00000dbc] [debug] -->[C44] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000089] [11:03:20:004018] [Tid0x00000dbc] [debug] <--[C44] DL_Rom_GetInfoAll
+[0000090] [11:03:20:004018] [Tid0x00000dbc] [debug] -->[C45] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000091] [11:03:20:004018] [Tid0x00000dbc] [debug] <--[C45] DL_Rom_SetEnableAttr
+[0000092] [11:03:20:253900] [Tid0x00000dbc] [debug] -->[C46] DL_GetCount #(api.cpp, line:2621)
+[0000093] [11:03:20:253900] [Tid0x00000dbc] [debug] <--[C46] DL_GetCount
+[0000094] [11:03:20:253900] [Tid0x00000dbc] [debug] -->[C47] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000095] [11:03:20:269524] [Tid0x00000dbc] [debug] <--[C47] DL_Rom_GetInfoAll
+[0000096] [11:03:20:269524] [Tid0x00000dbc] [debug] -->[C48] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000097] [11:03:20:269524] [Tid0x00000dbc] [debug] <--[C48] DL_Rom_SetEnableAttr
+[0000098] [11:03:20:285149] [Tid0x00000dbc] [debug] -->[C49] DL_GetCount #(api.cpp, line:2621)
+[0000099] [11:03:20:285149] [Tid0x00000dbc] [debug] <--[C49] DL_GetCount
+[0000100] [11:03:20:285149] [Tid0x00000dbc] [debug] -->[C50] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000101] [11:03:20:285149] [Tid0x00000dbc] [debug] <--[C50] DL_Rom_GetInfoAll
+[0000102] [11:03:20:285149] [Tid0x00000dbc] [debug] -->[C51] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000103] [11:03:20:285149] [Tid0x00000dbc] [debug] <--[C51] DL_Rom_SetEnableAttr
+[0000104] [11:03:20:285149] [Tid0x00000dbc] [debug] -->[C52] DL_GetCount #(api.cpp, line:2621)
+[0000105] [11:03:20:285149] [Tid0x00000dbc] [debug] <--[C52] DL_GetCount
+[0000106] [11:03:20:285149] [Tid0x00000dbc] [debug] -->[C53] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000107] [11:03:20:285149] [Tid0x00000dbc] [debug] <--[C53] DL_Rom_GetInfoAll
+[0000108] [11:03:20:300773] [Tid0x00000dbc] [debug] -->[C54] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000109] [11:03:20:300773] [Tid0x00000dbc] [debug] <--[C54] DL_Rom_SetEnableAttr
+[0000110] [11:03:20:332017] [Tid0x00000dbc] [debug] -->[C55] DL_GetCount #(api.cpp, line:2621)
+[0000111] [11:03:20:332017] [Tid0x00000dbc] [debug] <--[C55] DL_GetCount
+[0000112] [11:03:20:332017] [Tid0x00000dbc] [debug] -->[C56] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000113] [11:03:20:332017] [Tid0x00000dbc] [debug] <--[C56] DL_Rom_GetInfoAll
+[0000114] [11:03:20:332017] [Tid0x00000dbc] [debug] -->[C57] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000115] [11:03:20:332017] [Tid0x00000dbc] [debug] <--[C57] DL_Rom_SetEnableAttr
+[0000116] [11:03:20:332017] [Tid0x00000dbc] [debug] -->[C58] DL_GetCount #(api.cpp, line:2621)
+[0000117] [11:03:20:332017] [Tid0x00000dbc] [debug] <--[C58] DL_GetCount
+[0000118] [11:03:20:332017] [Tid0x00000dbc] [debug] -->[C59] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000119] [11:03:20:332017] [Tid0x00000dbc] [debug] <--[C59] DL_Rom_GetInfoAll
+[0000120] [11:03:20:347646] [Tid0x00000dbc] [debug] -->[C60] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000121] [11:03:20:347646] [Tid0x00000dbc] [debug] <--[C60] DL_Rom_SetEnableAttr
+[0000122] [11:03:20:347646] [Tid0x00000dbc] [debug] -->[C61] DL_GetCount #(api.cpp, line:2621)
+[0000123] [11:03:20:347646] [Tid0x00000dbc] [debug] <--[C61] DL_GetCount
+[0000124] [11:03:20:347646] [Tid0x00000dbc] [debug] -->[C62] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000125] [11:03:20:347646] [Tid0x00000dbc] [debug] <--[C62] DL_Rom_GetInfoAll
+[0000126] [11:03:20:347646] [Tid0x00000dbc] [debug] -->[C63] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000127] [11:03:20:347646] [Tid0x00000dbc] [debug] <--[C63] DL_Rom_SetEnableAttr
+[0000128] [11:03:20:378895] [Tid0x00000dbc] [debug] -->[C64] DL_GetCount #(api.cpp, line:2621)
+[0000129] [11:03:20:378895] [Tid0x00000dbc] [debug] <--[C64] DL_GetCount
+[0000130] [11:03:20:378895] [Tid0x00000dbc] [debug] -->[C65] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000131] [11:03:20:378895] [Tid0x00000dbc] [debug] <--[C65] DL_Rom_GetInfoAll
+[0000132] [11:03:20:394519] [Tid0x00000dbc] [debug] -->[C66] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000133] [11:03:20:394519] [Tid0x00000dbc] [debug] <--[C66] DL_Rom_SetEnableAttr
+[0000134] [11:03:20:394519] [Tid0x00000dbc] [debug] -->[C67] DL_GetCount #(api.cpp, line:2621)
+[0000135] [11:03:20:394519] [Tid0x00000dbc] [debug] <--[C67] DL_GetCount
+[0000136] [11:03:20:394519] [Tid0x00000dbc] [debug] -->[C68] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000137] [11:03:20:394519] [Tid0x00000dbc] [debug] <--[C68] DL_Rom_GetInfoAll
+[0000138] [11:03:20:410146] [Tid0x00000dbc] [debug] -->[C69] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000139] [11:03:20:410146] [Tid0x00000dbc] [debug] <--[C69] DL_Rom_SetEnableAttr
+[0000140] [11:03:20:410146] [Tid0x00000dbc] [debug] -->[C70] DL_GetCount #(api.cpp, line:2621)
+[0000141] [11:03:20:410146] [Tid0x00000dbc] [debug] <--[C70] DL_GetCount
+[0000142] [11:03:20:410146] [Tid0x00000dbc] [debug] -->[C71] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000143] [11:03:20:410146] [Tid0x00000dbc] [debug] <--[C71] DL_Rom_GetInfoAll
+[0000144] [11:03:20:410146] [Tid0x00000dbc] [debug] -->[C72] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000145] [11:03:20:410146] [Tid0x00000dbc] [debug] <--[C72] DL_Rom_SetEnableAttr
+[0000146] [11:03:20:441393] [Tid0x00000dbc] [debug] -->[C73] DL_GetCount #(api.cpp, line:2621)
+[0000147] [11:03:20:441393] [Tid0x00000dbc] [debug] <--[C73] DL_GetCount
+[0000148] [11:03:20:441393] [Tid0x00000dbc] [debug] -->[C74] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000149] [11:03:20:441393] [Tid0x00000dbc] [debug] <--[C74] DL_Rom_GetInfoAll
+[0000150] [11:03:20:457022] [Tid0x00000dbc] [debug] -->[C75] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000151] [11:03:20:457022] [Tid0x00000dbc] [debug] <--[C75] DL_Rom_SetEnableAttr
+[0000152] [11:03:20:457022] [Tid0x00000dbc] [debug] -->[C76] DL_GetCount #(api.cpp, line:2621)
+[0000153] [11:03:20:457022] [Tid0x00000dbc] [debug] <--[C76] DL_GetCount
+[0000154] [11:03:20:457022] [Tid0x00000dbc] [debug] -->[C77] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000155] [11:03:20:457022] [Tid0x00000dbc] [debug] <--[C77] DL_Rom_GetInfoAll
+[0000156] [11:03:20:457022] [Tid0x00000dbc] [debug] -->[C78] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000157] [11:03:20:457022] [Tid0x00000dbc] [debug] <--[C78] DL_Rom_SetEnableAttr
+[0000158] [11:03:20:457022] [Tid0x00000dbc] [debug] -->[C79] DL_GetCount #(api.cpp, line:2621)
+[0000159] [11:03:20:457022] [Tid0x00000dbc] [debug] <--[C79] DL_GetCount
+[0000160] [11:03:20:457022] [Tid0x00000dbc] [debug] -->[C80] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000161] [11:03:20:457022] [Tid0x00000dbc] [debug] <--[C80] DL_Rom_GetInfoAll
+[0000162] [11:03:20:472641] [Tid0x00000dbc] [debug] -->[C81] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000163] [11:03:20:472641] [Tid0x00000dbc] [debug] <--[C81] DL_Rom_SetEnableAttr
+[0000164] [11:03:20:488270] [Tid0x00000dbc] [debug] -->[C82] DL_GetCount #(api.cpp, line:2621)
+[0000165] [11:03:20:488270] [Tid0x00000dbc] [debug] <--[C82] DL_GetCount
+[0000166] [11:03:20:488270] [Tid0x00000dbc] [debug] -->[C83] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000167] [11:03:20:488270] [Tid0x00000dbc] [debug] <--[C83] DL_Rom_GetInfoAll
+[0000168] [11:03:20:503896] [Tid0x00000dbc] [debug] -->[C84] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000169] [11:03:20:503896] [Tid0x00000dbc] [debug] <--[C84] DL_Rom_SetEnableAttr
+[0000170] [11:03:20:503896] [Tid0x00000dbc] [debug] -->[C85] DL_GetCount #(api.cpp, line:2621)
+[0000171] [11:03:20:503896] [Tid0x00000dbc] [debug] <--[C85] DL_GetCount
+[0000172] [11:03:20:503896] [Tid0x00000dbc] [debug] -->[C86] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000173] [11:03:20:503896] [Tid0x00000dbc] [debug] <--[C86] DL_Rom_GetInfoAll
+[0000174] [11:03:20:519518] [Tid0x00000dbc] [debug] -->[C87] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000175] [11:03:20:519518] [Tid0x00000dbc] [debug] <--[C87] DL_Rom_SetEnableAttr
+[0000176] [11:03:20:519518] [Tid0x00000dbc] [debug] -->[C88] DL_GetCount #(api.cpp, line:2621)
+[0000177] [11:03:20:519518] [Tid0x00000dbc] [debug] <--[C88] DL_GetCount
+[0000178] [11:03:20:519518] [Tid0x00000dbc] [debug] -->[C89] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000179] [11:03:20:519518] [Tid0x00000dbc] [debug] <--[C89] DL_Rom_GetInfoAll
+[0000180] [11:03:20:519518] [Tid0x00000dbc] [debug] -->[C90] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000181] [11:03:20:519518] [Tid0x00000dbc] [debug] <--[C90] DL_Rom_SetEnableAttr
+[0000182] [11:03:20:582014] [Tid0x00000dbc] [debug] -->[C91] DL_GetCount #(api.cpp, line:2621)
+[0000183] [11:03:20:582014] [Tid0x00000dbc] [debug] <--[C91] DL_GetCount
+[0000184] [11:03:20:582014] [Tid0x00000dbc] [debug] -->[C92] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000185] [11:03:20:582014] [Tid0x00000dbc] [debug] <--[C92] DL_Rom_GetInfoAll
+[0000186] [11:03:20:582014] [Tid0x00000dbc] [debug] -->[C93] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000187] [11:03:20:582014] [Tid0x00000dbc] [debug] <--[C93] DL_Rom_SetEnableAttr
+[0000188] [11:03:20:597639] [Tid0x00000dbc] [debug] -->[C94] DL_GetCount #(api.cpp, line:2621)
+[0000189] [11:03:20:597639] [Tid0x00000dbc] [debug] <--[C94] DL_GetCount
+[0000190] [11:03:20:597639] [Tid0x00000dbc] [debug] -->[C95] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000191] [11:03:20:597639] [Tid0x00000dbc] [debug] <--[C95] DL_Rom_GetInfoAll
+[0000192] [11:03:20:597639] [Tid0x00000dbc] [debug] -->[C96] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000193] [11:03:20:597639] [Tid0x00000dbc] [debug] <--[C96] DL_Rom_SetEnableAttr
+[0000194] [11:03:20:597639] [Tid0x00000dbc] [debug] -->[C97] DL_GetCount #(api.cpp, line:2621)
+[0000195] [11:03:20:597639] [Tid0x00000dbc] [debug] <--[C97] DL_GetCount
+[0000196] [11:03:20:597639] [Tid0x00000dbc] [debug] -->[C98] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000197] [11:03:20:597639] [Tid0x00000dbc] [debug] <--[C98] DL_Rom_GetInfoAll
+[0000198] [11:03:20:613261] [Tid0x00000dbc] [debug] -->[C99] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000199] [11:03:20:613261] [Tid0x00000dbc] [debug] <--[C99] DL_Rom_SetEnableAttr
+[0000200] [11:03:20:628888] [Tid0x00000dbc] [debug] -->[C100] DL_GetCount #(api.cpp, line:2621)
+[0000201] [11:03:20:628888] [Tid0x00000dbc] [debug] <--[C100] DL_GetCount
+[0000202] [11:03:20:628888] [Tid0x00000dbc] [debug] -->[C101] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000203] [11:03:20:628888] [Tid0x00000dbc] [debug] <--[C101] DL_Rom_GetInfoAll
+[0000204] [11:03:20:644515] [Tid0x00000dbc] [debug] -->[C102] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000205] [11:03:20:644515] [Tid0x00000dbc] [debug] <--[C102] DL_Rom_SetEnableAttr
+[0000206] [11:03:20:644515] [Tid0x00000dbc] [debug] -->[C103] DL_GetCount #(api.cpp, line:2621)
+[0000207] [11:03:20:644515] [Tid0x00000dbc] [debug] <--[C103] DL_GetCount
+[0000208] [11:03:20:644515] [Tid0x00000dbc] [debug] -->[C104] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000209] [11:03:20:644515] [Tid0x00000dbc] [debug] <--[C104] DL_Rom_GetInfoAll
+[0000210] [11:03:20:644515] [Tid0x00000dbc] [debug] -->[C105] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000211] [11:03:20:644515] [Tid0x00000dbc] [debug] <--[C105] DL_Rom_SetEnableAttr
+[0000212] [11:03:20:644515] [Tid0x00000dbc] [debug] -->[C106] DL_GetCount #(api.cpp, line:2621)
+[0000213] [11:03:20:644515] [Tid0x00000dbc] [debug] <--[C106] DL_GetCount
+[0000214] [11:03:20:644515] [Tid0x00000dbc] [debug] -->[C107] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000215] [11:03:20:644515] [Tid0x00000dbc] [debug] <--[C107] DL_Rom_GetInfoAll
+[0000216] [11:03:20:660134] [Tid0x00000dbc] [debug] -->[C108] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000217] [11:03:20:660134] [Tid0x00000dbc] [debug] <--[C108] DL_Rom_SetEnableAttr
+[0000218] [11:03:20:800755] [Tid0x00000dbc] [debug] -->[C109] DL_GetCount #(api.cpp, line:2621)
+[0000219] [11:03:20:800755] [Tid0x00000dbc] [debug] <--[C109] DL_GetCount
+[0000220] [11:03:20:800755] [Tid0x00000dbc] [debug] -->[C110] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000221] [11:03:20:800755] [Tid0x00000dbc] [debug] <--[C110] DL_Rom_GetInfoAll
+[0000222] [11:03:20:800755] [Tid0x00000dbc] [debug] -->[C111] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000223] [11:03:20:800755] [Tid0x00000dbc] [debug] <--[C111] DL_Rom_SetEnableAttr
+[0000224] [11:03:20:816383] [Tid0x00000dbc] [debug] -->[C112] DL_GetCount #(api.cpp, line:2621)
+[0000225] [11:03:20:816383] [Tid0x00000dbc] [debug] <--[C112] DL_GetCount
+[0000226] [11:03:20:816383] [Tid0x00000dbc] [debug] -->[C113] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000227] [11:03:20:816383] [Tid0x00000dbc] [debug] <--[C113] DL_Rom_GetInfoAll
+[0000228] [11:03:20:816383] [Tid0x00000dbc] [debug] -->[C114] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000229] [11:03:20:816383] [Tid0x00000dbc] [debug] <--[C114] DL_Rom_SetEnableAttr
+[0000230] [11:03:20:816383] [Tid0x00000dbc] [debug] -->[C115] DL_GetCount #(api.cpp, line:2621)
+[0000231] [11:03:20:816383] [Tid0x00000dbc] [debug] <--[C115] DL_GetCount
+[0000232] [11:03:20:816383] [Tid0x00000dbc] [debug] -->[C116] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000233] [11:03:20:816383] [Tid0x00000dbc] [debug] <--[C116] DL_Rom_GetInfoAll
+[0000234] [11:03:20:832005] [Tid0x00000dbc] [debug] -->[C117] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000235] [11:03:20:832005] [Tid0x00000dbc] [debug] <--[C117] DL_Rom_SetEnableAttr
+[0000236] [11:03:20:863253] [Tid0x00000dbc] [debug] -->[C118] DL_GetCount #(api.cpp, line:2621)
+[0000237] [11:03:20:863253] [Tid0x00000dbc] [debug] <--[C118] DL_GetCount
+[0000238] [11:03:20:863253] [Tid0x00000dbc] [debug] -->[C119] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000239] [11:03:20:863253] [Tid0x00000dbc] [debug] <--[C119] DL_Rom_GetInfoAll
+[0000240] [11:03:20:878879] [Tid0x00000dbc] [debug] -->[C120] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000241] [11:03:20:878879] [Tid0x00000dbc] [debug] <--[C120] DL_Rom_SetEnableAttr
+[0000242] [11:03:20:878879] [Tid0x00000dbc] [debug] -->[C121] DL_GetCount #(api.cpp, line:2621)
+[0000243] [11:03:20:878879] [Tid0x00000dbc] [debug] <--[C121] DL_GetCount
+[0000244] [11:03:20:878879] [Tid0x00000dbc] [debug] -->[C122] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000245] [11:03:20:878879] [Tid0x00000dbc] [debug] <--[C122] DL_Rom_GetInfoAll
+[0000246] [11:03:20:894505] [Tid0x00000dbc] [debug] -->[C123] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000247] [11:03:20:894505] [Tid0x00000dbc] [debug] <--[C123] DL_Rom_SetEnableAttr
+[0000248] [11:03:20:894505] [Tid0x00000dbc] [debug] -->[C124] DL_GetCount #(api.cpp, line:2621)
+[0000249] [11:03:20:894505] [Tid0x00000dbc] [debug] <--[C124] DL_GetCount
+[0000250] [11:03:20:894505] [Tid0x00000dbc] [debug] -->[C125] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000251] [11:03:20:894505] [Tid0x00000dbc] [debug] <--[C125] DL_Rom_GetInfoAll
+[0000252] [11:03:20:894505] [Tid0x00000dbc] [debug] -->[C126] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000253] [11:03:20:894505] [Tid0x00000dbc] [debug] <--[C126] DL_Rom_SetEnableAttr
+[0000254] [11:03:20:925753] [Tid0x00000dbc] [debug] -->[C127] DL_GetCount #(api.cpp, line:2621)
+[0000255] [11:03:20:925753] [Tid0x00000dbc] [debug] <--[C127] DL_GetCount
+[0000256] [11:03:20:925753] [Tid0x00000dbc] [debug] -->[C128] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000257] [11:03:20:925753] [Tid0x00000dbc] [debug] <--[C128] DL_Rom_GetInfoAll
+[0000258] [11:03:20:925753] [Tid0x00000dbc] [debug] -->[C129] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000259] [11:03:20:925753] [Tid0x00000dbc] [debug] <--[C129] DL_Rom_SetEnableAttr
+[0000260] [11:03:20:925753] [Tid0x00000dbc] [debug] -->[C130] DL_GetCount #(api.cpp, line:2621)
+[0000261] [11:03:20:925753] [Tid0x00000dbc] [debug] <--[C130] DL_GetCount
+[0000262] [11:03:20:925753] [Tid0x00000dbc] [debug] -->[C131] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000263] [11:03:20:925753] [Tid0x00000dbc] [debug] <--[C131] DL_Rom_GetInfoAll
+[0000264] [11:03:20:941376] [Tid0x00000dbc] [debug] -->[C132] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000265] [11:03:20:941376] [Tid0x00000dbc] [debug] <--[C132] DL_Rom_SetEnableAttr
+[0000266] [11:03:20:941376] [Tid0x00000dbc] [debug] -->[C133] DL_GetCount #(api.cpp, line:2621)
+[0000267] [11:03:20:941376] [Tid0x00000dbc] [debug] <--[C133] DL_GetCount
+[0000268] [11:03:20:941376] [Tid0x00000dbc] [debug] -->[C134] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000269] [11:03:20:941376] [Tid0x00000dbc] [debug] <--[C134] DL_Rom_GetInfoAll
+[0000270] [11:03:20:941376] [Tid0x00000dbc] [debug] -->[C135] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000271] [11:03:20:941376] [Tid0x00000dbc] [debug] <--[C135] DL_Rom_SetEnableAttr
+[0000272] [11:03:20:957000] [Tid0x00000dbc] [debug] -->[C136] DL_GetCount #(api.cpp, line:2621)
+[0000273] [11:03:20:957000] [Tid0x00000dbc] [debug] <--[C136] DL_GetCount
+[0000274] [11:03:20:957000] [Tid0x00000dbc] [debug] -->[C137] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000275] [11:03:20:957000] [Tid0x00000dbc] [debug] <--[C137] DL_Rom_GetInfoAll
+[0000276] [11:03:20:972624] [Tid0x00000dbc] [debug] -->[C138] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000277] [11:03:20:972624] [Tid0x00000dbc] [debug] <--[C138] DL_Rom_SetEnableAttr
+[0000278] [11:03:20:972624] [Tid0x00000dbc] [debug] -->[C139] DL_GetCount #(api.cpp, line:2621)
+[0000279] [11:03:20:972624] [Tid0x00000dbc] [debug] <--[C139] DL_GetCount
+[0000280] [11:03:20:972624] [Tid0x00000dbc] [debug] -->[C140] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000281] [11:03:20:972624] [Tid0x00000dbc] [debug] <--[C140] DL_Rom_GetInfoAll
+[0000282] [11:03:20:972624] [Tid0x00000dbc] [debug] -->[C141] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000283] [11:03:20:972624] [Tid0x00000dbc] [debug] <--[C141] DL_Rom_SetEnableAttr
+[0000284] [11:03:20:972624] [Tid0x00000dbc] [debug] -->[C142] DL_GetCount #(api.cpp, line:2621)
+[0000285] [11:03:20:972624] [Tid0x00000dbc] [debug] <--[C142] DL_GetCount
+[0000286] [11:03:20:972624] [Tid0x00000dbc] [debug] -->[C143] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000287] [11:03:20:988249] [Tid0x00000dbc] [debug] <--[C143] DL_Rom_GetInfoAll
+[0000288] [11:03:20:988249] [Tid0x00000dbc] [debug] -->[C144] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000289] [11:03:20:988249] [Tid0x00000dbc] [debug] <--[C144] DL_Rom_SetEnableAttr
+[0000290] [11:03:21:003874] [Tid0x00000dbc] [debug] -->[C145] DL_GetCount #(api.cpp, line:2621)
+[0000291] [11:03:21:003874] [Tid0x00000dbc] [debug] <--[C145] DL_GetCount
+[0000292] [11:03:21:003874] [Tid0x00000dbc] [debug] -->[C146] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000293] [11:03:21:003874] [Tid0x00000dbc] [debug] <--[C146] DL_Rom_GetInfoAll
+[0000294] [11:03:21:003874] [Tid0x00000dbc] [debug] -->[C147] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000295] [11:03:21:003874] [Tid0x00000dbc] [debug] <--[C147] DL_Rom_SetEnableAttr
+[0000296] [11:03:21:019500] [Tid0x00000dbc] [debug] -->[C148] DL_GetCount #(api.cpp, line:2621)
+[0000297] [11:03:21:019500] [Tid0x00000dbc] [debug] <--[C148] DL_GetCount
+[0000298] [11:03:21:019500] [Tid0x00000dbc] [debug] -->[C149] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000299] [11:03:21:019500] [Tid0x00000dbc] [debug] <--[C149] DL_Rom_GetInfoAll
+[0000300] [11:03:21:019500] [Tid0x00000dbc] [debug] -->[C150] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000301] [11:03:21:019500] [Tid0x00000dbc] [debug] <--[C150] DL_Rom_SetEnableAttr
+[0000302] [11:03:21:019500] [Tid0x00000dbc] [debug] -->[C151] DL_GetCount #(api.cpp, line:2621)
+[0000303] [11:03:21:019500] [Tid0x00000dbc] [debug] <--[C151] DL_GetCount
+[0000304] [11:03:21:019500] [Tid0x00000dbc] [debug] -->[C152] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000305] [11:03:21:019500] [Tid0x00000dbc] [debug] <--[C152] DL_Rom_GetInfoAll
+[0000306] [11:03:21:035123] [Tid0x00000dbc] [debug] -->[C153] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000307] [11:03:21:035123] [Tid0x00000dbc] [debug] <--[C153] DL_Rom_SetEnableAttr
+[0000308] [11:03:21:050750] [Tid0x00000dbc] [debug] -->[C154] DL_GetCount #(api.cpp, line:2621)
+[0000309] [11:03:21:050750] [Tid0x00000dbc] [debug] <--[C154] DL_GetCount
+[0000310] [11:03:21:050750] [Tid0x00000dbc] [debug] -->[C155] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000311] [11:03:21:050750] [Tid0x00000dbc] [debug] <--[C155] DL_Rom_GetInfoAll
+[0000312] [11:03:21:050750] [Tid0x00000dbc] [debug] -->[C156] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000313] [11:03:21:050750] [Tid0x00000dbc] [debug] <--[C156] DL_Rom_SetEnableAttr
+[0000314] [11:03:21:050750] [Tid0x00000dbc] [debug] -->[C157] DL_GetCount #(api.cpp, line:2621)
+[0000315] [11:03:21:050750] [Tid0x00000dbc] [debug] <--[C157] DL_GetCount
+[0000316] [11:03:21:050750] [Tid0x00000dbc] [debug] -->[C158] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000317] [11:03:21:050750] [Tid0x00000dbc] [debug] <--[C158] DL_Rom_GetInfoAll
+[0000318] [11:03:21:066371] [Tid0x00000dbc] [debug] -->[C159] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000319] [11:03:21:066371] [Tid0x00000dbc] [debug] <--[C159] DL_Rom_SetEnableAttr
+[0000320] [11:03:21:066371] [Tid0x00000dbc] [debug] -->[C160] DL_GetCount #(api.cpp, line:2621)
+[0000321] [11:03:21:066371] [Tid0x00000dbc] [debug] <--[C160] DL_GetCount
+[0000322] [11:03:21:066371] [Tid0x00000dbc] [debug] -->[C161] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000323] [11:03:21:066371] [Tid0x00000dbc] [debug] <--[C161] DL_Rom_GetInfoAll
+[0000324] [11:03:21:066371] [Tid0x00000dbc] [debug] -->[C162] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000325] [11:03:21:066371] [Tid0x00000dbc] [debug] <--[C162] DL_Rom_SetEnableAttr
+[0000326] [11:03:21:081999] [Tid0x00000dbc] [debug] -->[C163] DL_GetCount #(api.cpp, line:2621)
+[0000327] [11:03:21:081999] [Tid0x00000dbc] [debug] <--[C163] DL_GetCount
+[0000328] [11:03:21:081999] [Tid0x00000dbc] [debug] -->[C164] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000329] [11:03:21:081999] [Tid0x00000dbc] [debug] <--[C164] DL_Rom_GetInfoAll
+[0000330] [11:03:21:097621] [Tid0x00000dbc] [debug] -->[C165] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000331] [11:03:21:097621] [Tid0x00000dbc] [debug] <--[C165] DL_Rom_SetEnableAttr
+[0000332] [11:03:21:097621] [Tid0x00000dbc] [debug] -->[C166] DL_GetCount #(api.cpp, line:2621)
+[0000333] [11:03:21:097621] [Tid0x00000dbc] [debug] <--[C166] DL_GetCount
+[0000334] [11:03:21:097621] [Tid0x00000dbc] [debug] -->[C167] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000335] [11:03:21:097621] [Tid0x00000dbc] [debug] <--[C167] DL_Rom_GetInfoAll
+[0000336] [11:03:21:097621] [Tid0x00000dbc] [debug] -->[C168] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000337] [11:03:21:097621] [Tid0x00000dbc] [debug] <--[C168] DL_Rom_SetEnableAttr
+[0000338] [11:03:21:097621] [Tid0x00000dbc] [debug] -->[C169] DL_GetCount #(api.cpp, line:2621)
+[0000339] [11:03:21:113248] [Tid0x00000dbc] [debug] <--[C169] DL_GetCount
+[0000340] [11:03:21:113248] [Tid0x00000dbc] [debug] -->[C170] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000341] [11:03:21:113248] [Tid0x00000dbc] [debug] <--[C170] DL_Rom_GetInfoAll
+[0000342] [11:03:21:113248] [Tid0x00000dbc] [debug] -->[C171] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000343] [11:03:21:113248] [Tid0x00000dbc] [debug] <--[C171] DL_Rom_SetEnableAttr
+[0000344] [11:03:21:128870] [Tid0x00000dbc] [debug] -->[C172] DL_GetCount #(api.cpp, line:2621)
+[0000345] [11:03:21:144497] [Tid0x00000dbc] [debug] <--[C172] DL_GetCount
+[0000346] [11:03:21:144497] [Tid0x00000dbc] [debug] -->[C173] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000347] [11:03:21:144497] [Tid0x00000dbc] [debug] <--[C173] DL_Rom_GetInfoAll
+[0000348] [11:03:21:144497] [Tid0x00000dbc] [debug] -->[C174] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000349] [11:03:21:144497] [Tid0x00000dbc] [debug] <--[C174] DL_Rom_SetEnableAttr
+[0000350] [11:03:21:144497] [Tid0x00000dbc] [debug] -->[C175] DL_GetCount #(api.cpp, line:2621)
+[0000351] [11:03:21:144497] [Tid0x00000dbc] [debug] <--[C175] DL_GetCount
+[0000352] [11:03:21:144497] [Tid0x00000dbc] [debug] -->[C176] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000353] [11:03:21:144497] [Tid0x00000dbc] [debug] <--[C176] DL_Rom_GetInfoAll
+[0000354] [11:03:21:160118] [Tid0x00000dbc] [debug] -->[C177] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000355] [11:03:21:160118] [Tid0x00000dbc] [debug] <--[C177] DL_Rom_SetEnableAttr
+[0000356] [11:03:21:160118] [Tid0x00000dbc] [debug] -->[C178] DL_GetCount #(api.cpp, line:2621)
+[0000357] [11:03:21:160118] [Tid0x00000dbc] [debug] <--[C178] DL_GetCount
+[0000358] [11:03:21:160118] [Tid0x00000dbc] [debug] -->[C179] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000359] [11:03:21:160118] [Tid0x00000dbc] [debug] <--[C179] DL_Rom_GetInfoAll
+[0000360] [11:03:21:160118] [Tid0x00000dbc] [debug] -->[C180] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000361] [11:03:21:160118] [Tid0x00000dbc] [debug] <--[C180] DL_Rom_SetEnableAttr
+[0000362] [11:03:21:160118] [Tid0x00000dbc] [debug] -->[C181] DL_GetCount #(api.cpp, line:2621)
+[0000363] [11:03:21:160118] [Tid0x00000dbc] [debug] <--[C181] DL_GetCount
+[0000364] [11:03:21:160118] [Tid0x00000dbc] [debug] -->[C182] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000365] [11:03:21:160118] [Tid0x00000dbc] [debug] <--[C182] DL_Rom_GetInfoAll
+[0000366] [11:03:21:175748] [Tid0x00000dbc] [debug] -->[C183] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000367] [11:03:21:175748] [Tid0x00000dbc] [debug] <--[C183] DL_Rom_SetEnableAttr
+[0000368] [11:03:21:175748] [Tid0x00000dbc] [debug] -->[C184] DL_SetChecksumLevel #(api.cpp, line:2523)
+[0000369] [11:03:21:175748] [Tid0x00000dbc] [debug] <--[C184] DL_SetChecksumLevel
+[0000370] [11:04:22:094991] [Tid0x00001f30] [debug] -->[C185] DL_LoadScatter #(api.cpp, line:2481)
+[0000371] [11:04:22:235610] [Tid0x00001f30] [debug] used lib version: 2 #(api.cpp, line:2503)
+[0000372] [11:04:22:235610] [Tid0x00001f30] [debug] <--[C185] DL_LoadScatter
+[0000373] [11:04:22:235610] [Tid0x00001f30] [debug] -->[C186] DL_AutoLoadRomImages #(api.cpp, line:2701)
+[0000374] [11:04:23:954304] [Tid0x00001f30] [debug] <--[C186] DL_AutoLoadRomImages
+[0000375] [11:04:23:969930] [Tid0x00001f30] [debug] -->[C187] DL_GetCount #(api.cpp, line:2621)
+[0000376] [11:04:23:969930] [Tid0x00001f30] [debug] <--[C187] DL_GetCount
+[0000377] [11:04:23:969930] [Tid0x00001f30] [debug] -->[C188] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000378] [11:04:23:969930] [Tid0x00001f30] [debug] <--[C188] DL_Rom_GetInfoAll
+[0000379] [11:04:23:969930] [Tid0x00001f30] [debug] -->[C189] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000380] [11:04:23:969930] [Tid0x00001f30] [debug] -->[C190] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000381] [11:04:25:141766] [Tid0x00001f30] [debug] <--[C190] cflashtool_api::DL_VerifyROMMemBuf
+[0000382] [11:04:25:141766] [Tid0x00001f30] [debug] <--[C189] DL_VerifyROMMemBuf
+[0000383] [11:04:25:141766] [Tid0x00001f30] [debug] -->[C191] FlashTool_GetLastErrorMessage #(api.cpp, line:3923)
+[0000384] [11:04:25:157435] [Tid0x00001f30] [debug] <--[C191] FlashTool_GetLastErrorMessage
+[0000385] [11:04:25:391765] [Tid0x00000dbc] [debug] -->[C192] DL_SetChecksumLevel #(api.cpp, line:2523)
+[0000386] [11:04:25:391765] [Tid0x00000dbc] [debug] <--[C192] DL_SetChecksumLevel
+[0000387] [11:05:20:144345] [Tid0x00000a70] [debug] -->[C193] DL_LoadScatter #(api.cpp, line:2481)
+[0000388] [11:05:20:269342] [Tid0x00000a70] [debug] used lib version: 2 #(api.cpp, line:2503)
+[0000389] [11:05:20:269342] [Tid0x00000a70] [debug] <--[C193] DL_LoadScatter
+[0000390] [11:05:20:269342] [Tid0x00000a70] [debug] -->[C194] DL_AutoLoadRomImages #(api.cpp, line:2701)
+[0000391] [11:05:20:769424] [Tid0x00000a70] [debug] <--[C194] DL_AutoLoadRomImages
+[0000392] [11:05:20:769424] [Tid0x00000a70] [debug] -->[C195] DL_GetCount #(api.cpp, line:2621)
+[0000393] [11:05:20:769424] [Tid0x00000a70] [debug] <--[C195] DL_GetCount
+[0000394] [11:05:20:769424] [Tid0x00000a70] [debug] -->[C196] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000395] [11:05:20:769424] [Tid0x00000a70] [debug] <--[C196] DL_Rom_GetInfoAll
+[0000396] [11:05:20:769424] [Tid0x00000a70] [debug] -->[C197] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000397] [11:05:20:769424] [Tid0x00000a70] [debug] -->[C198] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000398] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C198] cflashtool_api::DL_VerifyROMMemBuf
+[0000399] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C197] DL_VerifyROMMemBuf
+[0000400] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C199] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000401] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C200] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000402] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C200] cflashtool_api::DL_VerifyROMMemBuf
+[0000403] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C199] DL_VerifyROMMemBuf
+[0000404] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C201] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000405] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C202] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000406] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C202] cflashtool_api::DL_VerifyROMMemBuf
+[0000407] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C201] DL_VerifyROMMemBuf
+[0000408] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C203] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000409] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C204] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000410] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C204] cflashtool_api::DL_VerifyROMMemBuf
+[0000411] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C203] DL_VerifyROMMemBuf
+[0000412] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C205] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000413] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C206] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000414] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C206] cflashtool_api::DL_VerifyROMMemBuf
+[0000415] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C205] DL_VerifyROMMemBuf
+[0000416] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C207] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000417] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C208] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000418] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C208] cflashtool_api::DL_VerifyROMMemBuf
+[0000419] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C207] DL_VerifyROMMemBuf
+[0000420] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C209] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000421] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C210] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000422] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C210] cflashtool_api::DL_VerifyROMMemBuf
+[0000423] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C209] DL_VerifyROMMemBuf
+[0000424] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C211] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000425] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C212] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000426] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C212] cflashtool_api::DL_VerifyROMMemBuf
+[0000427] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C211] DL_VerifyROMMemBuf
+[0000428] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C213] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000429] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C214] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000430] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C214] cflashtool_api::DL_VerifyROMMemBuf
+[0000431] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C213] DL_VerifyROMMemBuf
+[0000432] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C215] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000433] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C216] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000434] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C216] cflashtool_api::DL_VerifyROMMemBuf
+[0000435] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C215] DL_VerifyROMMemBuf
+[0000436] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C217] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000437] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C218] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000438] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C218] cflashtool_api::DL_VerifyROMMemBuf
+[0000439] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C217] DL_VerifyROMMemBuf
+[0000440] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C219] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000441] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C220] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000442] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C220] cflashtool_api::DL_VerifyROMMemBuf
+[0000443] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C219] DL_VerifyROMMemBuf
+[0000444] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C221] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000445] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C222] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000446] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C222] cflashtool_api::DL_VerifyROMMemBuf
+[0000447] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C221] DL_VerifyROMMemBuf
+[0000448] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C223] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000449] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C224] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000450] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C224] cflashtool_api::DL_VerifyROMMemBuf
+[0000451] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C223] DL_VerifyROMMemBuf
+[0000452] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C225] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000453] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C226] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000454] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C226] cflashtool_api::DL_VerifyROMMemBuf
+[0000455] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C225] DL_VerifyROMMemBuf
+[0000456] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C227] DL_VerifyROMMemBuf #(api.cpp, line:2578)
+[0000457] [11:06:34:376357] [Tid0x00000a70] [debug] -->[C228] cflashtool_api::DL_VerifyROMMemBuf #(cflashtool_api.cpp, line:2007)
+[0000458] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C228] cflashtool_api::DL_VerifyROMMemBuf
+[0000459] [11:06:34:376357] [Tid0x00000a70] [debug] <--[C227] DL_VerifyROMMemBuf
+[0000460] [11:06:34:407606] [Tid0x00000dbc] [debug] -->[C229] DL_GetCount #(api.cpp, line:2621)
+[0000461] [11:06:34:407606] [Tid0x00000dbc] [debug] <--[C229] DL_GetCount
+[0000462] [11:06:34:407606] [Tid0x00000dbc] [debug] -->[C230] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000463] [11:06:34:407606] [Tid0x00000dbc] [debug] <--[C230] DL_Rom_GetInfoAll
+[0000464] [11:06:34:470103] [Tid0x00000dbc] [debug] -->[C231] DL_GetScatterInfo #(api.cpp, line:2722)
+[0000465] [11:06:34:470103] [Tid0x00000dbc] [debug] <--[C231] DL_GetScatterInfo
+[0000466] [11:06:34:485728] [Tid0x00000dbc] [debug] -->[C232] DL_GetCount #(api.cpp, line:2621)
+[0000467] [11:06:34:485728] [Tid0x00000dbc] [debug] <--[C232] DL_GetCount
+[0000468] [11:06:34:485728] [Tid0x00000dbc] [debug] -->[C233] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000469] [11:06:34:485728] [Tid0x00000dbc] [debug] <--[C233] DL_Rom_GetInfoAll
+[0000470] [11:06:34:485728] [Tid0x00000dbc] [debug] -->[C234] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000471] [11:06:34:485728] [Tid0x00000dbc] [debug] <--[C234] DL_Rom_SetEnableAttr
+[0000472] [11:06:34:501356] [Tid0x00000dbc] [debug] -->[C235] DL_GetCount #(api.cpp, line:2621)
+[0000473] [11:06:34:501356] [Tid0x00000dbc] [debug] <--[C235] DL_GetCount
+[0000474] [11:06:34:501356] [Tid0x00000dbc] [debug] -->[C236] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000475] [11:06:34:501356] [Tid0x00000dbc] [debug] <--[C236] DL_Rom_GetInfoAll
+[0000476] [11:06:34:501356] [Tid0x00000dbc] [debug] -->[C237] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000477] [11:06:34:501356] [Tid0x00000dbc] [debug] <--[C237] DL_Rom_SetEnableAttr
+[0000478] [11:06:34:517025] [Tid0x00000dbc] [debug] -->[C238] DL_GetCount #(api.cpp, line:2621)
+[0000479] [11:06:34:517025] [Tid0x00000dbc] [debug] <--[C238] DL_GetCount
+[0000480] [11:06:34:517025] [Tid0x00000dbc] [debug] -->[C239] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000481] [11:06:34:517025] [Tid0x00000dbc] [debug] <--[C239] DL_Rom_GetInfoAll
+[0000482] [11:06:34:517025] [Tid0x00000dbc] [debug] -->[C240] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000483] [11:06:34:517025] [Tid0x00000dbc] [debug] <--[C240] DL_Rom_SetEnableAttr
+[0000484] [11:06:34:532606] [Tid0x00000dbc] [debug] -->[C241] DL_GetCount #(api.cpp, line:2621)
+[0000485] [11:06:34:532606] [Tid0x00000dbc] [debug] <--[C241] DL_GetCount
+[0000486] [11:06:34:532606] [Tid0x00000dbc] [debug] -->[C242] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000487] [11:06:34:532606] [Tid0x00000dbc] [debug] <--[C242] DL_Rom_GetInfoAll
+[0000488] [11:06:34:532606] [Tid0x00000dbc] [debug] -->[C243] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000489] [11:06:34:532606] [Tid0x00000dbc] [debug] <--[C243] DL_Rom_SetEnableAttr
+[0000490] [11:06:34:548272] [Tid0x00000dbc] [debug] -->[C244] DL_GetCount #(api.cpp, line:2621)
+[0000491] [11:06:34:548272] [Tid0x00000dbc] [debug] <--[C244] DL_GetCount
+[0000492] [11:06:34:548272] [Tid0x00000dbc] [debug] -->[C245] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000493] [11:06:34:548272] [Tid0x00000dbc] [debug] <--[C245] DL_Rom_GetInfoAll
+[0000494] [11:06:34:548272] [Tid0x00000dbc] [debug] -->[C246] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000495] [11:06:34:548272] [Tid0x00000dbc] [debug] <--[C246] DL_Rom_SetEnableAttr
+[0000496] [11:06:34:548272] [Tid0x00000dbc] [debug] -->[C247] DL_GetCount #(api.cpp, line:2621)
+[0000497] [11:06:34:548272] [Tid0x00000dbc] [debug] <--[C247] DL_GetCount
+[0000498] [11:06:34:548272] [Tid0x00000dbc] [debug] -->[C248] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000499] [11:06:34:548272] [Tid0x00000dbc] [debug] <--[C248] DL_Rom_GetInfoAll
+[0000500] [11:06:34:563856] [Tid0x00000dbc] [debug] -->[C249] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000501] [11:06:34:563856] [Tid0x00000dbc] [debug] <--[C249] DL_Rom_SetEnableAttr
+[0000502] [11:06:34:563856] [Tid0x00000dbc] [debug] -->[C250] DL_GetCount #(api.cpp, line:2621)
+[0000503] [11:06:34:563856] [Tid0x00000dbc] [debug] <--[C250] DL_GetCount
+[0000504] [11:06:34:563856] [Tid0x00000dbc] [debug] -->[C251] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000505] [11:06:34:579565] [Tid0x00000dbc] [debug] <--[C251] DL_Rom_GetInfoAll
+[0000506] [11:06:34:579565] [Tid0x00000dbc] [debug] -->[C252] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000507] [11:06:34:579565] [Tid0x00000dbc] [debug] <--[C252] DL_Rom_SetEnableAttr
+[0000508] [11:06:34:579565] [Tid0x00000dbc] [debug] -->[C253] DL_GetCount #(api.cpp, line:2621)
+[0000509] [11:06:34:579565] [Tid0x00000dbc] [debug] <--[C253] DL_GetCount
+[0000510] [11:06:34:579565] [Tid0x00000dbc] [debug] -->[C254] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000511] [11:06:34:579565] [Tid0x00000dbc] [debug] <--[C254] DL_Rom_GetInfoAll
+[0000512] [11:06:34:595163] [Tid0x00000dbc] [debug] -->[C255] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000513] [11:06:34:595163] [Tid0x00000dbc] [debug] <--[C255] DL_Rom_SetEnableAttr
+[0000514] [11:06:34:595163] [Tid0x00000dbc] [debug] -->[C256] DL_GetCount #(api.cpp, line:2621)
+[0000515] [11:06:34:595163] [Tid0x00000dbc] [debug] <--[C256] DL_GetCount
+[0000516] [11:06:34:595163] [Tid0x00000dbc] [debug] -->[C257] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000517] [11:06:34:595163] [Tid0x00000dbc] [debug] <--[C257] DL_Rom_GetInfoAll
+[0000518] [11:06:34:610772] [Tid0x00000dbc] [debug] -->[C258] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000519] [11:06:34:610772] [Tid0x00000dbc] [debug] <--[C258] DL_Rom_SetEnableAttr
+[0000520] [11:06:34:610772] [Tid0x00000dbc] [debug] -->[C259] DL_GetCount #(api.cpp, line:2621)
+[0000521] [11:06:34:610772] [Tid0x00000dbc] [debug] <--[C259] DL_GetCount
+[0000522] [11:06:34:610772] [Tid0x00000dbc] [debug] -->[C260] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000523] [11:06:34:610772] [Tid0x00000dbc] [debug] <--[C260] DL_Rom_GetInfoAll
+[0000524] [11:06:34:610772] [Tid0x00000dbc] [debug] -->[C261] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000525] [11:06:34:610772] [Tid0x00000dbc] [debug] <--[C261] DL_Rom_SetEnableAttr
+[0000526] [11:06:34:626352] [Tid0x00000dbc] [debug] -->[C262] DL_GetCount #(api.cpp, line:2621)
+[0000527] [11:06:34:626352] [Tid0x00000dbc] [debug] <--[C262] DL_GetCount
+[0000528] [11:06:34:626352] [Tid0x00000dbc] [debug] -->[C263] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000529] [11:06:34:626352] [Tid0x00000dbc] [debug] <--[C263] DL_Rom_GetInfoAll
+[0000530] [11:06:34:626352] [Tid0x00000dbc] [debug] -->[C264] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000531] [11:06:34:626352] [Tid0x00000dbc] [debug] <--[C264] DL_Rom_SetEnableAttr
+[0000532] [11:06:34:641978] [Tid0x00000dbc] [debug] -->[C265] DL_GetCount #(api.cpp, line:2621)
+[0000533] [11:06:34:641978] [Tid0x00000dbc] [debug] <--[C265] DL_GetCount
+[0000534] [11:06:34:641978] [Tid0x00000dbc] [debug] -->[C266] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000535] [11:06:34:641978] [Tid0x00000dbc] [debug] <--[C266] DL_Rom_GetInfoAll
+[0000536] [11:06:34:641978] [Tid0x00000dbc] [debug] -->[C267] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000537] [11:06:34:641978] [Tid0x00000dbc] [debug] <--[C267] DL_Rom_SetEnableAttr
+[0000538] [11:06:34:657652] [Tid0x00000dbc] [debug] -->[C268] DL_GetCount #(api.cpp, line:2621)
+[0000539] [11:06:34:657652] [Tid0x00000dbc] [debug] <--[C268] DL_GetCount
+[0000540] [11:06:34:657652] [Tid0x00000dbc] [debug] -->[C269] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000541] [11:06:34:657652] [Tid0x00000dbc] [debug] <--[C269] DL_Rom_GetInfoAll
+[0000542] [11:06:34:657652] [Tid0x00000dbc] [debug] -->[C270] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000543] [11:06:34:657652] [Tid0x00000dbc] [debug] <--[C270] DL_Rom_SetEnableAttr
+[0000544] [11:06:34:657652] [Tid0x00000dbc] [debug] -->[C271] DL_GetCount #(api.cpp, line:2621)
+[0000545] [11:06:34:657652] [Tid0x00000dbc] [debug] <--[C271] DL_GetCount
+[0000546] [11:06:34:657652] [Tid0x00000dbc] [debug] -->[C272] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000547] [11:06:34:657652] [Tid0x00000dbc] [debug] <--[C272] DL_Rom_GetInfoAll
+[0000548] [11:06:34:673273] [Tid0x00000dbc] [debug] -->[C273] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000549] [11:06:34:673273] [Tid0x00000dbc] [debug] <--[C273] DL_Rom_SetEnableAttr
+[0000550] [11:06:34:673273] [Tid0x00000dbc] [debug] -->[C274] DL_GetCount #(api.cpp, line:2621)
+[0000551] [11:06:34:673273] [Tid0x00000dbc] [debug] <--[C274] DL_GetCount
+[0000552] [11:06:34:673273] [Tid0x00000dbc] [debug] -->[C275] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000553] [11:06:34:673273] [Tid0x00000dbc] [debug] <--[C275] DL_Rom_GetInfoAll
+[0000554] [11:06:34:688919] [Tid0x00000dbc] [debug] -->[C276] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000555] [11:06:34:688919] [Tid0x00000dbc] [debug] <--[C276] DL_Rom_SetEnableAttr
+[0000556] [11:06:34:688919] [Tid0x00000dbc] [debug] -->[C277] DL_GetCount #(api.cpp, line:2621)
+[0000557] [11:06:34:688919] [Tid0x00000dbc] [debug] <--[C277] DL_GetCount
+[0000558] [11:06:34:688919] [Tid0x00000dbc] [debug] -->[C278] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000559] [11:06:34:688919] [Tid0x00000dbc] [debug] <--[C278] DL_Rom_GetInfoAll
+[0000560] [11:06:34:688919] [Tid0x00000dbc] [debug] -->[C279] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000561] [11:06:34:688919] [Tid0x00000dbc] [debug] <--[C279] DL_Rom_SetEnableAttr
+[0000562] [11:06:34:704549] [Tid0x00000dbc] [debug] -->[C280] DL_GetCount #(api.cpp, line:2621)
+[0000563] [11:06:34:704549] [Tid0x00000dbc] [debug] <--[C280] DL_GetCount
+[0000564] [11:06:34:704549] [Tid0x00000dbc] [debug] -->[C281] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000565] [11:06:34:704549] [Tid0x00000dbc] [debug] <--[C281] DL_Rom_GetInfoAll
+[0000566] [11:06:34:704549] [Tid0x00000dbc] [debug] -->[C282] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000567] [11:06:34:704549] [Tid0x00000dbc] [debug] <--[C282] DL_Rom_SetEnableAttr
+[0000568] [11:06:34:720139] [Tid0x00000dbc] [debug] -->[C283] DL_GetCount #(api.cpp, line:2621)
+[0000569] [11:06:34:720139] [Tid0x00000dbc] [debug] <--[C283] DL_GetCount
+[0000570] [11:06:34:720139] [Tid0x00000dbc] [debug] -->[C284] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000571] [11:06:34:720139] [Tid0x00000dbc] [debug] <--[C284] DL_Rom_GetInfoAll
+[0000572] [11:06:34:720139] [Tid0x00000dbc] [debug] -->[C285] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000573] [11:06:34:720139] [Tid0x00000dbc] [debug] <--[C285] DL_Rom_SetEnableAttr
+[0000574] [11:06:34:735767] [Tid0x00000dbc] [debug] -->[C286] DL_GetCount #(api.cpp, line:2621)
+[0000575] [11:06:34:735767] [Tid0x00000dbc] [debug] <--[C286] DL_GetCount
+[0000576] [11:06:34:735767] [Tid0x00000dbc] [debug] -->[C287] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000577] [11:06:34:735767] [Tid0x00000dbc] [debug] <--[C287] DL_Rom_GetInfoAll
+[0000578] [11:06:34:735767] [Tid0x00000dbc] [debug] -->[C288] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000579] [11:06:34:735767] [Tid0x00000dbc] [debug] <--[C288] DL_Rom_SetEnableAttr
+[0000580] [11:06:34:735767] [Tid0x00000dbc] [debug] -->[C289] DL_GetCount #(api.cpp, line:2621)
+[0000581] [11:06:34:735767] [Tid0x00000dbc] [debug] <--[C289] DL_GetCount
+[0000582] [11:06:34:735767] [Tid0x00000dbc] [debug] -->[C290] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000583] [11:06:34:735767] [Tid0x00000dbc] [debug] <--[C290] DL_Rom_GetInfoAll
+[0000584] [11:06:34:751469] [Tid0x00000dbc] [debug] -->[C291] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000585] [11:06:34:751469] [Tid0x00000dbc] [debug] <--[C291] DL_Rom_SetEnableAttr
+[0000586] [11:06:34:751469] [Tid0x00000dbc] [debug] -->[C292] DL_GetCount #(api.cpp, line:2621)
+[0000587] [11:06:34:751469] [Tid0x00000dbc] [debug] <--[C292] DL_GetCount
+[0000588] [11:06:34:751469] [Tid0x00000dbc] [debug] -->[C293] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000589] [11:06:34:751469] [Tid0x00000dbc] [debug] <--[C293] DL_Rom_GetInfoAll
+[0000590] [11:06:34:767012] [Tid0x00000dbc] [debug] -->[C294] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000591] [11:06:34:767012] [Tid0x00000dbc] [debug] <--[C294] DL_Rom_SetEnableAttr
+[0000592] [11:06:34:767012] [Tid0x00000dbc] [debug] -->[C295] DL_GetCount #(api.cpp, line:2621)
+[0000593] [11:06:34:767012] [Tid0x00000dbc] [debug] <--[C295] DL_GetCount
+[0000594] [11:06:34:767012] [Tid0x00000dbc] [debug] -->[C296] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000595] [11:06:34:767012] [Tid0x00000dbc] [debug] <--[C296] DL_Rom_GetInfoAll
+[0000596] [11:06:34:767012] [Tid0x00000dbc] [debug] -->[C297] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000597] [11:06:34:767012] [Tid0x00000dbc] [debug] <--[C297] DL_Rom_SetEnableAttr
+[0000598] [11:06:34:782645] [Tid0x00000dbc] [debug] -->[C298] DL_GetCount #(api.cpp, line:2621)
+[0000599] [11:06:34:782645] [Tid0x00000dbc] [debug] <--[C298] DL_GetCount
+[0000600] [11:06:34:782645] [Tid0x00000dbc] [debug] -->[C299] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000601] [11:06:34:782645] [Tid0x00000dbc] [debug] <--[C299] DL_Rom_GetInfoAll
+[0000602] [11:06:34:782645] [Tid0x00000dbc] [debug] -->[C300] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000603] [11:06:34:782645] [Tid0x00000dbc] [debug] <--[C300] DL_Rom_SetEnableAttr
+[0000604] [11:06:34:798319] [Tid0x00000dbc] [debug] -->[C301] DL_GetCount #(api.cpp, line:2621)
+[0000605] [11:06:34:798319] [Tid0x00000dbc] [debug] <--[C301] DL_GetCount
+[0000606] [11:06:34:798319] [Tid0x00000dbc] [debug] -->[C302] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000607] [11:06:34:798319] [Tid0x00000dbc] [debug] <--[C302] DL_Rom_GetInfoAll
+[0000608] [11:06:34:798319] [Tid0x00000dbc] [debug] -->[C303] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000609] [11:06:34:798319] [Tid0x00000dbc] [debug] <--[C303] DL_Rom_SetEnableAttr
+[0000610] [11:06:34:813849] [Tid0x00000dbc] [debug] -->[C304] DL_GetCount #(api.cpp, line:2621)
+[0000611] [11:06:34:813849] [Tid0x00000dbc] [debug] <--[C304] DL_GetCount
+[0000612] [11:06:34:813849] [Tid0x00000dbc] [debug] -->[C305] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000613] [11:06:34:813849] [Tid0x00000dbc] [debug] <--[C305] DL_Rom_GetInfoAll
+[0000614] [11:06:34:813849] [Tid0x00000dbc] [debug] -->[C306] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000615] [11:06:34:813849] [Tid0x00000dbc] [debug] <--[C306] DL_Rom_SetEnableAttr
+[0000616] [11:06:34:813849] [Tid0x00000dbc] [debug] -->[C307] DL_GetCount #(api.cpp, line:2621)
+[0000617] [11:06:34:813849] [Tid0x00000dbc] [debug] <--[C307] DL_GetCount
+[0000618] [11:06:34:813849] [Tid0x00000dbc] [debug] -->[C308] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000619] [11:06:34:813849] [Tid0x00000dbc] [debug] <--[C308] DL_Rom_GetInfoAll
+[0000620] [11:06:34:829517] [Tid0x00000dbc] [debug] -->[C309] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000621] [11:06:34:829517] [Tid0x00000dbc] [debug] <--[C309] DL_Rom_SetEnableAttr
+[0000622] [11:06:34:829517] [Tid0x00000dbc] [debug] -->[C310] DL_GetCount #(api.cpp, line:2621)
+[0000623] [11:06:34:829517] [Tid0x00000dbc] [debug] <--[C310] DL_GetCount
+[0000624] [11:06:34:829517] [Tid0x00000dbc] [debug] -->[C311] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000625] [11:06:34:829517] [Tid0x00000dbc] [debug] <--[C311] DL_Rom_GetInfoAll
+[0000626] [11:06:34:845094] [Tid0x00000dbc] [debug] -->[C312] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000627] [11:06:34:845094] [Tid0x00000dbc] [debug] <--[C312] DL_Rom_SetEnableAttr
+[0000628] [11:06:34:845094] [Tid0x00000dbc] [debug] -->[C313] DL_GetCount #(api.cpp, line:2621)
+[0000629] [11:06:34:845094] [Tid0x00000dbc] [debug] <--[C313] DL_GetCount
+[0000630] [11:06:34:845094] [Tid0x00000dbc] [debug] -->[C314] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000631] [11:06:34:845094] [Tid0x00000dbc] [debug] <--[C314] DL_Rom_GetInfoAll
+[0000632] [11:06:34:860720] [Tid0x00000dbc] [debug] -->[C315] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000633] [11:06:34:860720] [Tid0x00000dbc] [debug] <--[C315] DL_Rom_SetEnableAttr
+[0000634] [11:06:34:860720] [Tid0x00000dbc] [debug] -->[C316] DL_GetCount #(api.cpp, line:2621)
+[0000635] [11:06:34:860720] [Tid0x00000dbc] [debug] <--[C316] DL_GetCount
+[0000636] [11:06:34:860720] [Tid0x00000dbc] [debug] -->[C317] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000637] [11:06:34:860720] [Tid0x00000dbc] [debug] <--[C317] DL_Rom_GetInfoAll
+[0000638] [11:06:34:860720] [Tid0x00000dbc] [debug] -->[C318] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000639] [11:06:34:876344] [Tid0x00000dbc] [debug] <--[C318] DL_Rom_SetEnableAttr
+[0000640] [11:06:34:876344] [Tid0x00000dbc] [debug] -->[C319] DL_GetCount #(api.cpp, line:2621)
+[0000641] [11:06:34:876344] [Tid0x00000dbc] [debug] <--[C319] DL_GetCount
+[0000642] [11:06:34:876344] [Tid0x00000dbc] [debug] -->[C320] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000643] [11:06:34:876344] [Tid0x00000dbc] [debug] <--[C320] DL_Rom_GetInfoAll
+[0000644] [11:06:34:876344] [Tid0x00000dbc] [debug] -->[C321] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000645] [11:06:34:876344] [Tid0x00000dbc] [debug] <--[C321] DL_Rom_SetEnableAttr
+[0000646] [11:06:34:891969] [Tid0x00000dbc] [debug] -->[C322] DL_GetCount #(api.cpp, line:2621)
+[0000647] [11:06:34:891969] [Tid0x00000dbc] [debug] <--[C322] DL_GetCount
+[0000648] [11:06:34:891969] [Tid0x00000dbc] [debug] -->[C323] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000649] [11:06:34:891969] [Tid0x00000dbc] [debug] <--[C323] DL_Rom_GetInfoAll
+[0000650] [11:06:34:891969] [Tid0x00000dbc] [debug] -->[C324] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000651] [11:06:34:891969] [Tid0x00000dbc] [debug] <--[C324] DL_Rom_SetEnableAttr
+[0000652] [11:06:34:891969] [Tid0x00000dbc] [debug] -->[C325] DL_GetCount #(api.cpp, line:2621)
+[0000653] [11:06:34:907593] [Tid0x00000dbc] [debug] <--[C325] DL_GetCount
+[0000654] [11:06:34:907593] [Tid0x00000dbc] [debug] -->[C326] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0000655] [11:06:34:907593] [Tid0x00000dbc] [debug] <--[C326] DL_Rom_GetInfoAll
+[0000656] [11:06:34:907593] [Tid0x00000dbc] [debug] -->[C327] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0000657] [11:06:34:907593] [Tid0x00000dbc] [debug] <--[C327] DL_Rom_SetEnableAttr
+[0000658] [11:06:34:907593] [Tid0x00000dbc] [debug] -->[C328] DL_SetChecksumLevel #(api.cpp, line:2523)
+[0000659] [11:06:34:907593] [Tid0x00000dbc] [debug] <--[C328] DL_SetChecksumLevel
+[0000660] [11:07:13:042022] [Tid0x00001410] [debug] -->[C329] FlashTool_Connect_BROM_ByName #(api.cpp, line:1970)
+[0000661] [11:07:13:042022] [Tid0x00001410] [debug] -->[C330] FlashTool_Connect_BROM_Ex #(api.cpp, line:1875)
+[0000662] [11:07:13:042022] [Tid0x00001410] [debug] bCheckScatter: 1 #(api.cpp, line:1876)
+[0000663] [11:07:13:042022] [Tid0x00001410] [debug] have load scatter already #(api.cpp, line:1880)
+[0000664] [11:07:13:042022] [Tid0x00001410] [debug] libversion 2 #(api.cpp, line:1897)
+[0000665] [11:07:13:073392] [Tid0x00001410] [debug] -->[C331] cflashtool_api::FlashTool_Connect_BROM_Ex #(cflashtool_api.cpp, line:1008)
+[0000666] [11:07:13:889931] [Tid0x00001410] [debug] <--[C331] cflashtool_api::FlashTool_Connect_BROM_Ex
+[0000667] [11:07:13:889931] [Tid0x00001410] [debug] <--[C330] FlashTool_Connect_BROM_Ex
+[0000668] [11:07:13:889931] [Tid0x00001410] [debug] <--[C329] FlashTool_Connect_BROM_ByName
+[0000669] [11:07:13:929007] [Tid0x00001410] [debug] -->[C332] FlashTool_Disconnect_BROM #(api.cpp, line:1051)
+[0000670] [11:07:13:929007] [Tid0x00001410] [debug] -->[C333] cflashtool_api::FlashTool_Disconnect_BROM #(cflashtool_api.cpp, line:54)
+[0000671] [11:07:13:929007] [Tid0x00001410] [debug] <--[C333] cflashtool_api::FlashTool_Disconnect_BROM
+[0000672] [11:07:13:929007] [Tid0x00001410] [debug] <--[C332] FlashTool_Disconnect_BROM
+[0000673] [11:07:37:255615] [Tid0x00002358] [debug] -->[C334] FlashTool_Connect_BROM_ByName #(api.cpp, line:1970)
+[0000674] [11:07:37:255615] [Tid0x00002358] [debug] -->[C335] FlashTool_Connect_BROM_Ex #(api.cpp, line:1875)
+[0000675] [11:07:37:255615] [Tid0x00002358] [debug] bCheckScatter: 1 #(api.cpp, line:1876)
+[0000676] [11:07:37:255615] [Tid0x00002358] [debug] have load scatter already #(api.cpp, line:1880)
+[0000677] [11:07:37:255615] [Tid0x00002358] [debug] libversion 2 #(api.cpp, line:1897)
+[0000678] [11:07:37:255615] [Tid0x00002358] [debug] -->[C336] cflashtool_api::FlashTool_Connect_BROM_Ex #(cflashtool_api.cpp, line:1008)
+[0000679] [11:07:37:710850] [Tid0x00002358] [warning] Get support Modem fail: 0xc0010007 #(cflashtool_api.cpp, line:1129)
+[0000680] [11:07:37:755991] [Tid0x00002358] [debug] connect_brom_ex OK #(cflashtool_api.cpp, line:1172)
+[0000681] [11:07:37:755991] [Tid0x00002358] [debug] <--[C336] cflashtool_api::FlashTool_Connect_BROM_Ex
+[0000682] [11:07:37:755991] [Tid0x00002358] [debug] <--[C335] FlashTool_Connect_BROM_Ex
+[0000683] [11:07:37:755991] [Tid0x00002358] [debug] <--[C334] FlashTool_Connect_BROM_ByName
+[0000684] [11:07:37:755991] [Tid0x00002358] [debug] -->[C337] FlashTool_GetBootResult #(api.cpp, line:1982)
+[0000685] [11:07:37:755991] [Tid0x00002358] [debug] <--[C337] FlashTool_GetBootResult
+[0000686] [11:07:37:755991] [Tid0x00002358] [debug] -->[C338] FlashTool_Connect_Download_DA #(api.cpp, line:2002)
+[0000687] [11:07:37:755991] [Tid0x00002358] [debug] bCheckScatter: 1 #(api.cpp, line:2003)
+[0000688] [11:07:37:771075] [Tid0x00002358] [debug] -->[C339] cflashtool_api::FlashTool_Connect_Download_DA #(cflashtool_api.cpp, line:1317)
+[0000689] [11:07:37:771075] [Tid0x00002358] [debug] bCheckScatter: 1 #(cflashtool_api.cpp, line:1318)
+[0000690] [11:07:37:771075] [Tid0x00002358] [debug] da_source type: 0 #(cflashtool_api.cpp, line:1333)
+[0000691] [11:07:37:771075] [Tid0x00002358] [debug] enable PCDRAM checksum #(cflashtool_api.cpp, line:1380)
+[0000692] [11:07:37:776136] [Tid0x00002358] [debug] checksum_level: 7,  battery_setting: 2, reset_key_setting: 104 #(cflashtool_api.cpp, line:1434)
+[0000693] [11:07:37:776660] [Tid0x00002358] [debug] connect_da_end_stage: 2,  enable_dram_in_1st_da: 0, da_log_level: 2 #(cflashtool_api.cpp, line:1436)
+[0000694] [11:07:41:579912] [Tid0x00002358] [debug] gpx_count: 0 #(cflashtool_api.cpp, line:1472)
+[0000695] [11:07:41:626790] [Tid0x00002358] [debug] m_emmc_cid[0]: 0x47000115 #(cflashtool_api.cpp, line:1536)
+[0000696] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_cid[1]: 0x4d423658 #(cflashtool_api.cpp, line:1536)
+[0000697] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_cid[2]: 0x23fd0342 #(cflashtool_api.cpp, line:1536)
+[0000698] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_cid[3]: 0x6f943df2 #(cflashtool_api.cpp, line:1536)
+[0000699] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[0]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000700] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[1]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000701] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[2]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000702] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[3]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000703] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[4]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000704] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[5]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000705] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[6]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000706] [11:07:41:642409] [Tid0x00002358] [debug] m_emmc_fwver[7]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000707] [11:07:41:642409] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: BBCHIP_TYPE: MT6757 #(cflashtool_api.cpp, line:1228)
+[0000708] [11:07:41:642409] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: BBCHIP: "MT6757", EXT_26M 
+[0000709] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: BBCHIP: CODE(0x6757), VER(0xCB00), SW(0x0001)              
+[0000710] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                  
+[0000711] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[0]="CS_0"(0x00)                   
+[0000712] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[1]="CS_0"(0x00)                   
+[0000713] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_id(0x0000)="[AMD] AM29DL323D"                         
+[0000714] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_size(0x00000000)                              
+[0000715] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_1(0x0000)                        
+[0000716] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_2(0x0000)                        
+[0000717] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_3(0x0000)                        
+[0000718] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_4(0x0000)                        
+[0000719] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_status="S_DONE"(0)                     
+[0000720] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_size(0x00000000)                          
+[0000721] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                
+[0000722] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_chip_select="CS_0"(0x00)                    
+[0000723] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id(0x0000)="[SAMSUNG] K9F5608Q0C"                       
+[0000724] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_size(0x0000000000000000)                        
+[0000725] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id_count(0x0000)                        
+[0000726] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pagesize(0)                                  
+[0000727] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_sparesize(0)                                 
+[0000728] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pages_per_block(0)                           
+[0000729] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_io_interface( )                              
+[0000730] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_addr_cycle( )                                
+[0000731] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_bmt_exist( )                                
+[0000732] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ret="S_DONE"(0)          
+[0000733] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot1_size(0x00400000)      
+[0000734] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot2_size(0x00400000)      
+[0000735] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_rpmb_size(0x00400000)       
+[0000736] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp1_size(0x00000000)        
+[0000737] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp2_size(0x00000000)        
+[0000738] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp3_size(0x00000000)        
+[0000739] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp4_size(0x00000000)        
+[0000740] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ua_size(0x0000000747C00000)      
+[0000741] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_cid(0x47000115 0x4D423658 0x23FD0342 0x6F943DF2)      
+[0000742] [11:07:41:658083] [Tid0x00002358] [debug] DA_REPORT: eMMC: m_emmc_fwver(0x0  0x0  0x0  0x0  0x0  0x0  0x0  0x0 )      
+[0000743] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ret="S_DA_INVALID_STORAGE_TYPE"(3178)          
+[0000744] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ua_size(0x0000000000000000)      
+[0000745] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_cid(0x00000000 0x00000000 0x00000000 0x00000000)      
+[0000746] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_ret="S_DONE"(0)                         
+[0000747] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_size(0x00000000)                           
+[0000748] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_ret="S_DONE"(0)                          
+[0000749] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_type(0x02)="HW_RAM_DRAM"                     
+[0000750] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_chip_select(0x00)="CS_0"              
+[0000751] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_size(0x80000000)                            
+[0000752] [11:07:41:658083] [Tid0x00002358] [debug] SyncWithDA(): DA_REPORT: RandomID: 0xE7384548 0x072A6AB3 0xD89D7810 0x9C7951FE
+[0000753] [11:07:41:658083] [Tid0x00002358] [debug] <--[C339] cflashtool_api::FlashTool_Connect_Download_DA
+[0000754] [11:07:41:658083] [Tid0x00002358] [debug] <--[C338] FlashTool_Connect_Download_DA
+[0000755] [11:07:41:673708] [Tid0x00002358] [debug] -->[C340] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0000756] [11:07:41:673708] [Tid0x00002358] [debug] -->[C341] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0000757] [11:07:41:673708] [Tid0x00002358] [debug] <--[C341] cflashtool_api::FlashTool_CheckUSBStatus
+[0000758] [11:07:41:673708] [Tid0x00002358] [debug] <--[C340] FlashTool_CheckUSBStatus
+[0000759] [11:07:41:673708] [Tid0x00002358] [debug] -->[C342] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0000760] [11:07:41:673708] [Tid0x00002358] [debug] -->[C343] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0000761] [11:07:41:673708] [Tid0x00002358] [debug] <--[C343] cflashtool_api::FlashTool_CheckUSBStatus
+[0000762] [11:07:41:673708] [Tid0x00002358] [debug] <--[C342] FlashTool_CheckUSBStatus
+[0000763] [11:07:41:704909] [Tid0x00002358] [debug] -->[C344] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0000764] [11:07:41:704909] [Tid0x00002358] [debug] <--[C344] FlashTool_GetReservedRomSize
+[0000765] [11:07:41:704909] [Tid0x00002358] [debug] -->[C345] FlashTool_Format #(api.cpp, line:1346)
+[0000766] [11:07:41:704909] [Tid0x00002358] [debug] -->[C346] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0000767] [11:07:41:798657] [Tid0x00002358] [debug] <--[C346] cflashtool_api::FlashTool_Format
+[0000768] [11:07:41:798657] [Tid0x00002358] [debug] <--[C345] FlashTool_Format
+[0000769] [11:07:41:829906] [Tid0x00002358] [debug] -->[C347] FlashTool_Disconnect #(api.cpp, line:1033)
+[0000770] [11:07:41:829906] [Tid0x00002358] [debug] -->[C348] cflashtool_api::FlashTool_Disconnect #(cflashtool_api.cpp, line:34)
+[0000771] [11:07:41:954902] [Tid0x00002358] [debug] -->[C349] DL_ClearFTHandle #(api.cpp, line:2545)
+[0000772] [11:07:41:954902] [Tid0x00002358] [debug] <--[C349] DL_ClearFTHandle
+[0000773] [11:07:41:954902] [Tid0x00002358] [debug] <--[C348] cflashtool_api::FlashTool_Disconnect
+[0000774] [11:07:41:954902] [Tid0x00002358] [debug] <--[C347] FlashTool_Disconnect
+[0000775] [11:08:02:140863] [Tid0x000004ec] [debug] -->[C350] FlashTool_Connect_BROM_ByName #(api.cpp, line:1970)
+[0000776] [11:08:02:140863] [Tid0x000004ec] [debug] -->[C351] FlashTool_Connect_BROM_Ex #(api.cpp, line:1875)
+[0000777] [11:08:02:140863] [Tid0x000004ec] [debug] bCheckScatter: 1 #(api.cpp, line:1876)
+[0000778] [11:08:02:140863] [Tid0x000004ec] [debug] have load scatter already #(api.cpp, line:1880)
+[0000779] [11:08:02:140863] [Tid0x000004ec] [debug] libversion 2 #(api.cpp, line:1897)
+[0000780] [11:08:02:140863] [Tid0x000004ec] [debug] -->[C352] cflashtool_api::FlashTool_Connect_BROM_Ex #(cflashtool_api.cpp, line:1008)
+[0000781] [11:08:02:557866] [Tid0x000004ec] [warning] Get support Modem fail: 0xc0010007 #(cflashtool_api.cpp, line:1129)
+[0000782] [11:08:02:562238] [Tid0x000004ec] [debug] connect_brom_ex OK #(cflashtool_api.cpp, line:1172)
+[0000783] [11:08:02:562238] [Tid0x000004ec] [debug] <--[C352] cflashtool_api::FlashTool_Connect_BROM_Ex
+[0000784] [11:08:02:562238] [Tid0x000004ec] [debug] <--[C351] FlashTool_Connect_BROM_Ex
+[0000785] [11:08:02:562238] [Tid0x000004ec] [debug] <--[C350] FlashTool_Connect_BROM_ByName
+[0000786] [11:08:02:562238] [Tid0x000004ec] [debug] -->[C353] FlashTool_GetBootResult #(api.cpp, line:1982)
+[0000787] [11:08:02:562238] [Tid0x000004ec] [debug] <--[C353] FlashTool_GetBootResult
+[0000788] [11:08:02:562238] [Tid0x000004ec] [debug] -->[C354] FlashTool_Connect_Download_DA #(api.cpp, line:2002)
+[0000789] [11:08:02:562238] [Tid0x000004ec] [debug] bCheckScatter: 1 #(api.cpp, line:2003)
+[0000790] [11:08:02:562238] [Tid0x000004ec] [debug] -->[C355] cflashtool_api::FlashTool_Connect_Download_DA #(cflashtool_api.cpp, line:1317)
+[0000791] [11:08:02:562238] [Tid0x000004ec] [debug] bCheckScatter: 1 #(cflashtool_api.cpp, line:1318)
+[0000792] [11:08:02:562238] [Tid0x000004ec] [debug] da_source type: 0 #(cflashtool_api.cpp, line:1333)
+[0000793] [11:08:02:562238] [Tid0x000004ec] [debug] enable PCDRAM checksum #(cflashtool_api.cpp, line:1380)
+[0000794] [11:08:02:562238] [Tid0x000004ec] [debug] checksum_level: 7,  battery_setting: 2, reset_key_setting: 104 #(cflashtool_api.cpp, line:1434)
+[0000795] [11:08:02:562238] [Tid0x000004ec] [debug] connect_da_end_stage: 2,  enable_dram_in_1st_da: 0, da_log_level: 2 #(cflashtool_api.cpp, line:1436)
+[0000796] [11:08:06:317378] [Tid0x000004ec] [debug] gpx_count: 0 #(cflashtool_api.cpp, line:1472)
+[0000797] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_cid[0]: 0x47000115 #(cflashtool_api.cpp, line:1536)
+[0000798] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_cid[1]: 0x4d423658 #(cflashtool_api.cpp, line:1536)
+[0000799] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_cid[2]: 0x23fd0342 #(cflashtool_api.cpp, line:1536)
+[0000800] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_cid[3]: 0x6f943df2 #(cflashtool_api.cpp, line:1536)
+[0000801] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[0]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000802] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[1]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000803] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[2]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000804] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[3]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000805] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[4]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000806] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[5]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000807] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[6]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000808] [11:08:06:332998] [Tid0x000004ec] [debug] m_emmc_fwver[7]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000809] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: BBCHIP_TYPE: MT6757 #(cflashtool_api.cpp, line:1228)
+[0000810] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: BBCHIP: "MT6757", EXT_26M 
+[0000811] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: BBCHIP: CODE(0x6757), VER(0xCB00), SW(0x0001)              
+[0000812] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                  
+[0000813] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[0]="CS_0"(0x00)                   
+[0000814] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[1]="CS_0"(0x00)                   
+[0000815] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_id(0x0000)="[AMD] AM29DL323D"                         
+[0000816] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_size(0x00000000)                              
+[0000817] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_1(0x0000)                        
+[0000818] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_2(0x0000)                        
+[0000819] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_3(0x0000)                        
+[0000820] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_4(0x0000)                        
+[0000821] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_status="S_DONE"(0)                     
+[0000822] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_size(0x00000000)                          
+[0000823] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                
+[0000824] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_chip_select="CS_0"(0x00)                    
+[0000825] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id(0x0000)="[SAMSUNG] K9F5608Q0C"                       
+[0000826] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_size(0x0000000000000000)                        
+[0000827] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id_count(0x0000)                        
+[0000828] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pagesize(0)                                  
+[0000829] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_sparesize(0)                                 
+[0000830] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pages_per_block(0)                           
+[0000831] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_io_interface( )                              
+[0000832] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_addr_cycle( )                                
+[0000833] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_bmt_exist( )                                
+[0000834] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ret="S_DONE"(0)          
+[0000835] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot1_size(0x00400000)      
+[0000836] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot2_size(0x00400000)      
+[0000837] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_rpmb_size(0x00400000)       
+[0000838] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp1_size(0x00000000)        
+[0000839] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp2_size(0x00000000)        
+[0000840] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp3_size(0x00000000)        
+[0000841] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp4_size(0x00000000)        
+[0000842] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ua_size(0x0000000747C00000)      
+[0000843] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_cid(0x47000115 0x4D423658 0x23FD0342 0x6F943DF2)      
+[0000844] [11:08:06:332998] [Tid0x000004ec] [debug] DA_REPORT: eMMC: m_emmc_fwver(0x0  0x0  0x0  0x0  0x0  0x0  0x0  0x0 )      
+[0000845] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ret="S_DA_INVALID_STORAGE_TYPE"(3178)          
+[0000846] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ua_size(0x0000000000000000)      
+[0000847] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_cid(0x00000000 0x00000000 0x00000000 0x00000000)      
+[0000848] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_ret="S_DONE"(0)                         
+[0000849] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_size(0x00000000)                           
+[0000850] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_ret="S_DONE"(0)                          
+[0000851] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_type(0x02)="HW_RAM_DRAM"                     
+[0000852] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_chip_select(0x00)="CS_0"              
+[0000853] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_size(0x80000000)                            
+[0000854] [11:08:06:332998] [Tid0x000004ec] [debug] SyncWithDA(): DA_REPORT: RandomID: 0xE7384548 0x072A6AB3 0xD89D7810 0x9C7951FE
+[0000855] [11:08:06:332998] [Tid0x000004ec] [debug] <--[C355] cflashtool_api::FlashTool_Connect_Download_DA
+[0000856] [11:08:06:332998] [Tid0x000004ec] [debug] <--[C354] FlashTool_Connect_Download_DA
+[0000857] [11:08:06:332998] [Tid0x000004ec] [debug] -->[C356] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0000858] [11:08:06:332998] [Tid0x000004ec] [debug] -->[C357] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0000859] [11:08:06:348623] [Tid0x000004ec] [debug] <--[C357] cflashtool_api::FlashTool_CheckUSBStatus
+[0000860] [11:08:06:348623] [Tid0x000004ec] [debug] <--[C356] FlashTool_CheckUSBStatus
+[0000861] [11:08:06:348623] [Tid0x000004ec] [debug] -->[C358] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0000862] [11:08:06:348623] [Tid0x000004ec] [debug] -->[C359] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0000863] [11:08:06:348623] [Tid0x000004ec] [debug] <--[C359] cflashtool_api::FlashTool_CheckUSBStatus
+[0000864] [11:08:06:348623] [Tid0x000004ec] [debug] <--[C358] FlashTool_CheckUSBStatus
+[0000865] [11:08:06:348623] [Tid0x000004ec] [debug] -->[C360] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0000866] [11:08:06:348623] [Tid0x000004ec] [debug] <--[C360] FlashTool_GetReservedRomSize
+[0000867] [11:08:06:348623] [Tid0x000004ec] [debug] -->[C361] FlashTool_Format #(api.cpp, line:1346)
+[0000868] [11:08:06:348623] [Tid0x000004ec] [debug] -->[C362] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0000869] [11:08:06:364251] [Tid0x000004ec] [debug] <--[C362] cflashtool_api::FlashTool_Format
+[0000870] [11:08:06:364251] [Tid0x000004ec] [debug] <--[C361] FlashTool_Format
+[0000871] [11:08:06:364251] [Tid0x000004ec] [debug] -->[C363] FlashTool_Disconnect #(api.cpp, line:1033)
+[0000872] [11:08:06:364251] [Tid0x000004ec] [debug] -->[C364] cflashtool_api::FlashTool_Disconnect #(cflashtool_api.cpp, line:34)
+[0000873] [11:08:06:395502] [Tid0x000004ec] [debug] -->[C365] DL_ClearFTHandle #(api.cpp, line:2545)
+[0000874] [11:08:06:395502] [Tid0x000004ec] [debug] <--[C365] DL_ClearFTHandle
+[0000875] [11:08:06:395502] [Tid0x000004ec] [debug] <--[C364] cflashtool_api::FlashTool_Disconnect
+[0000876] [11:08:06:395502] [Tid0x000004ec] [debug] <--[C363] FlashTool_Disconnect
+[0000877] [11:08:30:071920] [Tid0x000003f8] [debug] -->[C366] FlashTool_Connect_BROM_ByName #(api.cpp, line:1970)
+[0000878] [11:08:30:071920] [Tid0x000003f8] [debug] -->[C367] FlashTool_Connect_BROM_Ex #(api.cpp, line:1875)
+[0000879] [11:08:30:071920] [Tid0x000003f8] [debug] bCheckScatter: 1 #(api.cpp, line:1876)
+[0000880] [11:08:30:071920] [Tid0x000003f8] [debug] have load scatter already #(api.cpp, line:1880)
+[0000881] [11:08:30:071920] [Tid0x000003f8] [debug] libversion 2 #(api.cpp, line:1897)
+[0000882] [11:08:30:071920] [Tid0x000003f8] [debug] -->[C368] cflashtool_api::FlashTool_Connect_BROM_Ex #(cflashtool_api.cpp, line:1008)
+[0000883] [11:08:30:484286] [Tid0x000003f8] [warning] Get support Modem fail: 0xc0010007 #(cflashtool_api.cpp, line:1129)
+[0000884] [11:08:30:494376] [Tid0x000003f8] [debug] connect_brom_ex OK #(cflashtool_api.cpp, line:1172)
+[0000885] [11:08:30:494376] [Tid0x000003f8] [debug] <--[C368] cflashtool_api::FlashTool_Connect_BROM_Ex
+[0000886] [11:08:30:494376] [Tid0x000003f8] [debug] <--[C367] FlashTool_Connect_BROM_Ex
+[0000887] [11:08:30:494376] [Tid0x000003f8] [debug] <--[C366] FlashTool_Connect_BROM_ByName
+[0000888] [11:08:30:494376] [Tid0x000003f8] [debug] -->[C369] FlashTool_GetBootResult #(api.cpp, line:1982)
+[0000889] [11:08:30:494376] [Tid0x000003f8] [debug] <--[C369] FlashTool_GetBootResult
+[0000890] [11:08:30:494376] [Tid0x000003f8] [debug] -->[C370] FlashTool_Connect_Download_DA #(api.cpp, line:2002)
+[0000891] [11:08:30:494376] [Tid0x000003f8] [debug] bCheckScatter: 1 #(api.cpp, line:2003)
+[0000892] [11:08:30:494376] [Tid0x000003f8] [debug] -->[C371] cflashtool_api::FlashTool_Connect_Download_DA #(cflashtool_api.cpp, line:1317)
+[0000893] [11:08:30:494376] [Tid0x000003f8] [debug] bCheckScatter: 1 #(cflashtool_api.cpp, line:1318)
+[0000894] [11:08:30:494376] [Tid0x000003f8] [debug] da_source type: 0 #(cflashtool_api.cpp, line:1333)
+[0000895] [11:08:30:494376] [Tid0x000003f8] [debug] enable PCDRAM checksum #(cflashtool_api.cpp, line:1380)
+[0000896] [11:08:30:494376] [Tid0x000003f8] [debug] checksum_level: 7,  battery_setting: 2, reset_key_setting: 104 #(cflashtool_api.cpp, line:1434)
+[0000897] [11:08:30:494376] [Tid0x000003f8] [debug] connect_da_end_stage: 2,  enable_dram_in_1st_da: 0, da_log_level: 2 #(cflashtool_api.cpp, line:1436)
+[0000898] [11:08:34:203898] [Tid0x000003f8] [debug] gpx_count: 0 #(cflashtool_api.cpp, line:1472)
+[0000899] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_cid[0]: 0x47000115 #(cflashtool_api.cpp, line:1536)
+[0000900] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_cid[1]: 0x4d423658 #(cflashtool_api.cpp, line:1536)
+[0000901] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_cid[2]: 0x23fd0342 #(cflashtool_api.cpp, line:1536)
+[0000902] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_cid[3]: 0x6f943df2 #(cflashtool_api.cpp, line:1536)
+[0000903] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[0]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000904] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[1]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000905] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[2]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000906] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[3]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000907] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[4]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000908] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[5]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000909] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[6]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000910] [11:08:34:235101] [Tid0x000003f8] [debug] m_emmc_fwver[7]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0000911] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: BBCHIP_TYPE: MT6757 #(cflashtool_api.cpp, line:1228)
+[0000912] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: BBCHIP: "MT6757", EXT_26M 
+[0000913] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: BBCHIP: CODE(0x6757), VER(0xCB00), SW(0x0001)              
+[0000914] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                  
+[0000915] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[0]="CS_0"(0x00)                   
+[0000916] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[1]="CS_0"(0x00)                   
+[0000917] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_id(0x0000)="[AMD] AM29DL323D"                         
+[0000918] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_size(0x00000000)                              
+[0000919] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_1(0x0000)                        
+[0000920] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_2(0x0000)                        
+[0000921] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_3(0x0000)                        
+[0000922] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_4(0x0000)                        
+[0000923] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_status="S_DONE"(0)                     
+[0000924] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_size(0x00000000)                          
+[0000925] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                
+[0000926] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_chip_select="CS_0"(0x00)                    
+[0000927] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id(0x0000)="[SAMSUNG] K9F5608Q0C"                       
+[0000928] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_size(0x0000000000000000)                        
+[0000929] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id_count(0x0000)                        
+[0000930] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pagesize(0)                                  
+[0000931] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_sparesize(0)                                 
+[0000932] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pages_per_block(0)                           
+[0000933] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_io_interface( )                              
+[0000934] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_addr_cycle( )                                
+[0000935] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_bmt_exist( )                                
+[0000936] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ret="S_DONE"(0)          
+[0000937] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot1_size(0x00400000)      
+[0000938] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot2_size(0x00400000)      
+[0000939] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_rpmb_size(0x00400000)       
+[0000940] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp1_size(0x00000000)        
+[0000941] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp2_size(0x00000000)        
+[0000942] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp3_size(0x00000000)        
+[0000943] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp4_size(0x00000000)        
+[0000944] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ua_size(0x0000000747C00000)      
+[0000945] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_cid(0x47000115 0x4D423658 0x23FD0342 0x6F943DF2)      
+[0000946] [11:08:34:235101] [Tid0x000003f8] [debug] DA_REPORT: eMMC: m_emmc_fwver(0x0  0x0  0x0  0x0  0x0  0x0  0x0  0x0 )      
+[0000947] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ret="S_DA_INVALID_STORAGE_TYPE"(3178)          
+[0000948] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ua_size(0x0000000000000000)      
+[0000949] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_cid(0x00000000 0x00000000 0x00000000 0x00000000)      
+[0000950] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_ret="S_DONE"(0)                         
+[0000951] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_size(0x00000000)                           
+[0000952] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_ret="S_DONE"(0)                          
+[0000953] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_type(0x02)="HW_RAM_DRAM"                     
+[0000954] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_chip_select(0x00)="CS_0"              
+[0000955] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_size(0x80000000)                            
+[0000956] [11:08:34:235101] [Tid0x000003f8] [debug] SyncWithDA(): DA_REPORT: RandomID: 0xE7384548 0x072A6AB3 0xD89D7810 0x9C7951FE
+[0000957] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C371] cflashtool_api::FlashTool_Connect_Download_DA
+[0000958] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C370] FlashTool_Connect_Download_DA
+[0000959] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C372] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0000960] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C373] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0000961] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C373] cflashtool_api::FlashTool_CheckUSBStatus
+[0000962] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C372] FlashTool_CheckUSBStatus
+[0000963] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C374] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0000964] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C375] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0000965] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C375] cflashtool_api::FlashTool_CheckUSBStatus
+[0000966] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C374] FlashTool_CheckUSBStatus
+[0000967] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C376] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0000968] [11:08:34:235101] [Tid0x000003f8] [debug] <--[C376] FlashTool_GetReservedRomSize
+[0000969] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C377] FlashTool_Format #(api.cpp, line:1346)
+[0000970] [11:08:34:235101] [Tid0x000003f8] [debug] -->[C378] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0000971] [11:08:34:453953] [Tid0x000003f8] [debug] <--[C378] cflashtool_api::FlashTool_Format
+[0000972] [11:08:34:453953] [Tid0x000003f8] [debug] <--[C377] FlashTool_Format
+[0000973] [11:08:34:453953] [Tid0x000003f8] [debug] -->[C379] FlashTool_Disconnect #(api.cpp, line:1033)
+[0000974] [11:08:34:453953] [Tid0x000003f8] [debug] -->[C380] cflashtool_api::FlashTool_Disconnect #(cflashtool_api.cpp, line:34)
+[0000975] [11:08:34:485154] [Tid0x000003f8] [debug] -->[C381] DL_ClearFTHandle #(api.cpp, line:2545)
+[0000976] [11:08:34:485154] [Tid0x000003f8] [debug] <--[C381] DL_ClearFTHandle
+[0000977] [11:08:34:485154] [Tid0x000003f8] [debug] <--[C380] cflashtool_api::FlashTool_Disconnect
+[0000978] [11:08:34:485154] [Tid0x000003f8] [debug] <--[C379] FlashTool_Disconnect
+[0000979] [11:09:16:571274] [Tid0x00000be4] [debug] -->[C382] FlashTool_Connect_BROM_ByName #(api.cpp, line:1970)
+[0000980] [11:09:16:571274] [Tid0x00000be4] [debug] -->[C383] FlashTool_Connect_BROM_Ex #(api.cpp, line:1875)
+[0000981] [11:09:16:571274] [Tid0x00000be4] [debug] bCheckScatter: 1 #(api.cpp, line:1876)
+[0000982] [11:09:16:571274] [Tid0x00000be4] [debug] have load scatter already #(api.cpp, line:1880)
+[0000983] [11:09:16:571274] [Tid0x00000be4] [debug] libversion 2 #(api.cpp, line:1897)
+[0000984] [11:09:16:571274] [Tid0x00000be4] [debug] -->[C384] cflashtool_api::FlashTool_Connect_BROM_Ex #(cflashtool_api.cpp, line:1008)
+[0000985] [11:09:16:586896] [Tid0x00000be4] [warning] Get support Modem fail: 0xc0010007 #(cflashtool_api.cpp, line:1129)
+[0000986] [11:09:16:586896] [Tid0x00000be4] [debug] connect_brom_ex OK #(cflashtool_api.cpp, line:1172)
+[0000987] [11:09:16:586896] [Tid0x00000be4] [debug] <--[C384] cflashtool_api::FlashTool_Connect_BROM_Ex
+[0000988] [11:09:16:586896] [Tid0x00000be4] [debug] <--[C383] FlashTool_Connect_BROM_Ex
+[0000989] [11:09:16:586896] [Tid0x00000be4] [debug] <--[C382] FlashTool_Connect_BROM_ByName
+[0000990] [11:09:16:586896] [Tid0x00000be4] [debug] -->[C385] FlashTool_GetBootResult #(api.cpp, line:1982)
+[0000991] [11:09:16:586896] [Tid0x00000be4] [debug] <--[C385] FlashTool_GetBootResult
+[0000992] [11:09:16:586896] [Tid0x00000be4] [debug] -->[C386] FlashTool_Connect_Download_DA #(api.cpp, line:2002)
+[0000993] [11:09:16:586896] [Tid0x00000be4] [debug] bCheckScatter: 1 #(api.cpp, line:2003)
+[0000994] [11:09:16:586896] [Tid0x00000be4] [debug] -->[C387] cflashtool_api::FlashTool_Connect_Download_DA #(cflashtool_api.cpp, line:1317)
+[0000995] [11:09:16:586896] [Tid0x00000be4] [debug] bCheckScatter: 1 #(cflashtool_api.cpp, line:1318)
+[0000996] [11:09:16:586896] [Tid0x00000be4] [debug] da_source type: 0 #(cflashtool_api.cpp, line:1333)
+[0000997] [11:09:16:586896] [Tid0x00000be4] [debug] enable PCDRAM checksum #(cflashtool_api.cpp, line:1380)
+[0000998] [11:09:16:586896] [Tid0x00000be4] [debug] checksum_level: 7,  battery_setting: 2, reset_key_setting: 104 #(cflashtool_api.cpp, line:1434)
+[0000999] [11:09:16:586896] [Tid0x00000be4] [debug] connect_da_end_stage: 2,  enable_dram_in_1st_da: 0, da_log_level: 2 #(cflashtool_api.cpp, line:1436)
+[0001000] [11:09:20:796821] [Tid0x00000be4] [debug] gpx_count: 0 #(cflashtool_api.cpp, line:1472)
+[0001001] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_cid[0]: 0x47000115 #(cflashtool_api.cpp, line:1536)
+[0001002] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_cid[1]: 0x4d423658 #(cflashtool_api.cpp, line:1536)
+[0001003] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_cid[2]: 0x23fd0342 #(cflashtool_api.cpp, line:1536)
+[0001004] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_cid[3]: 0x6f943df2 #(cflashtool_api.cpp, line:1536)
+[0001005] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[0]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001006] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[1]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001007] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[2]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001008] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[3]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001009] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[4]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001010] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[5]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001011] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[6]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001012] [11:09:20:812445] [Tid0x00000be4] [debug] m_emmc_fwver[7]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001013] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: BBCHIP_TYPE: MT6757 #(cflashtool_api.cpp, line:1228)
+[0001014] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: BBCHIP: "MT6757", EXT_26M 
+[0001015] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: BBCHIP: CODE(0x6757), VER(0xCB00), SW(0x0001)              
+[0001016] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                  
+[0001017] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[0]="CS_0"(0x00)                   
+[0001018] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[1]="CS_0"(0x00)                   
+[0001019] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_id(0x0000)="[AMD] AM29DL323D"                         
+[0001020] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_size(0x00000000)                              
+[0001021] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_1(0x0000)                        
+[0001022] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_2(0x0000)                        
+[0001023] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_3(0x0000)                        
+[0001024] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_4(0x0000)                        
+[0001025] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_status="S_DONE"(0)                     
+[0001026] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_size(0x00000000)                          
+[0001027] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                
+[0001028] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_chip_select="CS_0"(0x00)                    
+[0001029] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id(0x0000)="[SAMSUNG] K9F5608Q0C"                       
+[0001030] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_size(0x0000000000000000)                        
+[0001031] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id_count(0x0000)                        
+[0001032] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pagesize(0)                                  
+[0001033] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_sparesize(0)                                 
+[0001034] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pages_per_block(0)                           
+[0001035] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_io_interface( )                              
+[0001036] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_addr_cycle( )                                
+[0001037] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_bmt_exist( )                                
+[0001038] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ret="S_DONE"(0)          
+[0001039] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot1_size(0x00400000)      
+[0001040] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot2_size(0x00400000)      
+[0001041] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_rpmb_size(0x00400000)       
+[0001042] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp1_size(0x00000000)        
+[0001043] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp2_size(0x00000000)        
+[0001044] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp3_size(0x00000000)        
+[0001045] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp4_size(0x00000000)        
+[0001046] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ua_size(0x0000000747C00000)      
+[0001047] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_cid(0x47000115 0x4D423658 0x23FD0342 0x6F943DF2)      
+[0001048] [11:09:20:812445] [Tid0x00000be4] [debug] DA_REPORT: eMMC: m_emmc_fwver(0x0  0x0  0x0  0x0  0x0  0x0  0x0  0x0 )      
+[0001049] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ret="S_DA_INVALID_STORAGE_TYPE"(3178)          
+[0001050] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ua_size(0x0000000000000000)      
+[0001051] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_cid(0x00000000 0x00000000 0x00000000 0x00000000)      
+[0001052] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_ret="S_DONE"(0)                         
+[0001053] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_size(0x00000000)                           
+[0001054] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_ret="S_DONE"(0)                          
+[0001055] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_type(0x02)="HW_RAM_DRAM"                     
+[0001056] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_chip_select(0x00)="CS_0"              
+[0001057] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_size(0x80000000)                            
+[0001058] [11:09:20:812445] [Tid0x00000be4] [debug] SyncWithDA(): DA_REPORT: RandomID: 0xE7384548 0x072A6AB3 0xD89D7810 0x9C7951FE
+[0001059] [11:09:20:812445] [Tid0x00000be4] [debug] <--[C387] cflashtool_api::FlashTool_Connect_Download_DA
+[0001060] [11:09:20:812445] [Tid0x00000be4] [debug] <--[C386] FlashTool_Connect_Download_DA
+[0001061] [11:09:20:812445] [Tid0x00000be4] [debug] -->[C388] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0001062] [11:09:20:812445] [Tid0x00000be4] [debug] -->[C389] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0001063] [11:09:20:828070] [Tid0x00000be4] [debug] <--[C389] cflashtool_api::FlashTool_CheckUSBStatus
+[0001064] [11:09:20:828070] [Tid0x00000be4] [debug] <--[C388] FlashTool_CheckUSBStatus
+[0001065] [11:09:20:828070] [Tid0x00000be4] [debug] -->[C390] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0001066] [11:09:20:828070] [Tid0x00000be4] [debug] -->[C391] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0001067] [11:09:20:828070] [Tid0x00000be4] [debug] <--[C391] cflashtool_api::FlashTool_CheckUSBStatus
+[0001068] [11:09:20:828070] [Tid0x00000be4] [debug] <--[C390] FlashTool_CheckUSBStatus
+[0001069] [11:09:20:828070] [Tid0x00000be4] [debug] -->[C392] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0001070] [11:09:20:828070] [Tid0x00000be4] [debug] <--[C392] FlashTool_GetReservedRomSize
+[0001071] [11:09:20:828070] [Tid0x00000be4] [debug] -->[C393] FlashTool_Format #(api.cpp, line:1346)
+[0001072] [11:09:20:828070] [Tid0x00000be4] [debug] -->[C394] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0001073] [11:09:20:968766] [Tid0x00000be4] [debug] <--[C394] cflashtool_api::FlashTool_Format
+[0001074] [11:09:20:968766] [Tid0x00000be4] [debug] <--[C393] FlashTool_Format
+[0001075] [11:09:20:968766] [Tid0x00000be4] [debug] -->[C395] FlashTool_Disconnect #(api.cpp, line:1033)
+[0001076] [11:09:20:968766] [Tid0x00000be4] [debug] -->[C396] cflashtool_api::FlashTool_Disconnect #(cflashtool_api.cpp, line:34)
+[0001077] [11:09:21:000018] [Tid0x00000be4] [debug] -->[C397] DL_ClearFTHandle #(api.cpp, line:2545)
+[0001078] [11:09:21:000018] [Tid0x00000be4] [debug] <--[C397] DL_ClearFTHandle
+[0001079] [11:09:21:000018] [Tid0x00000be4] [debug] <--[C396] cflashtool_api::FlashTool_Disconnect
+[0001080] [11:09:21:000018] [Tid0x00000be4] [debug] <--[C395] FlashTool_Disconnect
+[0001081] [11:09:50:263918] [Tid0x00000dbc] [debug] -->[C398] DL_GetCount #(api.cpp, line:2621)
+[0001082] [11:09:50:263918] [Tid0x00000dbc] [debug] <--[C398] DL_GetCount
+[0001083] [11:09:50:263918] [Tid0x00000dbc] [debug] -->[C399] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001084] [11:09:50:263918] [Tid0x00000dbc] [debug] <--[C399] DL_Rom_GetInfoAll
+[0001085] [11:09:50:279544] [Tid0x00000dbc] [debug] -->[C400] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001086] [11:09:50:279544] [Tid0x00000dbc] [debug] <--[C400] DL_Rom_SetEnableAttr
+[0001087] [11:09:50:279544] [Tid0x00000dbc] [debug] -->[C401] DL_GetCount #(api.cpp, line:2621)
+[0001088] [11:09:50:279544] [Tid0x00000dbc] [debug] <--[C401] DL_GetCount
+[0001089] [11:09:50:279544] [Tid0x00000dbc] [debug] -->[C402] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001090] [11:09:50:279544] [Tid0x00000dbc] [debug] <--[C402] DL_Rom_GetInfoAll
+[0001091] [11:09:50:295165] [Tid0x00000dbc] [debug] -->[C403] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001092] [11:09:50:295165] [Tid0x00000dbc] [debug] <--[C403] DL_Rom_SetEnableAttr
+[0001093] [11:09:50:295165] [Tid0x00000dbc] [debug] -->[C404] DL_GetCount #(api.cpp, line:2621)
+[0001094] [11:09:50:295165] [Tid0x00000dbc] [debug] <--[C404] DL_GetCount
+[0001095] [11:09:50:295165] [Tid0x00000dbc] [debug] -->[C405] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001096] [11:09:50:295165] [Tid0x00000dbc] [debug] <--[C405] DL_Rom_GetInfoAll
+[0001097] [11:09:50:310787] [Tid0x00000dbc] [debug] -->[C406] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001098] [11:09:50:310787] [Tid0x00000dbc] [debug] <--[C406] DL_Rom_SetEnableAttr
+[0001099] [11:09:50:310787] [Tid0x00000dbc] [debug] -->[C407] DL_GetCount #(api.cpp, line:2621)
+[0001100] [11:09:50:310787] [Tid0x00000dbc] [debug] <--[C407] DL_GetCount
+[0001101] [11:09:50:310787] [Tid0x00000dbc] [debug] -->[C408] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001102] [11:09:50:310787] [Tid0x00000dbc] [debug] <--[C408] DL_Rom_GetInfoAll
+[0001103] [11:09:50:310787] [Tid0x00000dbc] [debug] -->[C409] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001104] [11:09:50:310787] [Tid0x00000dbc] [debug] <--[C409] DL_Rom_SetEnableAttr
+[0001105] [11:09:50:310787] [Tid0x00000dbc] [debug] -->[C410] DL_GetCount #(api.cpp, line:2621)
+[0001106] [11:09:50:326412] [Tid0x00000dbc] [debug] <--[C410] DL_GetCount
+[0001107] [11:09:50:326412] [Tid0x00000dbc] [debug] -->[C411] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001108] [11:09:50:326412] [Tid0x00000dbc] [debug] <--[C411] DL_Rom_GetInfoAll
+[0001109] [11:09:50:326412] [Tid0x00000dbc] [debug] -->[C412] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001110] [11:09:50:326412] [Tid0x00000dbc] [debug] <--[C412] DL_Rom_SetEnableAttr
+[0001111] [11:09:50:326412] [Tid0x00000dbc] [debug] -->[C413] DL_GetCount #(api.cpp, line:2621)
+[0001112] [11:09:50:326412] [Tid0x00000dbc] [debug] <--[C413] DL_GetCount
+[0001113] [11:09:50:326412] [Tid0x00000dbc] [debug] -->[C414] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001114] [11:09:50:326412] [Tid0x00000dbc] [debug] <--[C414] DL_Rom_GetInfoAll
+[0001115] [11:09:50:342036] [Tid0x00000dbc] [debug] -->[C415] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001116] [11:09:50:342036] [Tid0x00000dbc] [debug] <--[C415] DL_Rom_SetEnableAttr
+[0001117] [11:09:50:342036] [Tid0x00000dbc] [debug] -->[C416] DL_GetCount #(api.cpp, line:2621)
+[0001118] [11:09:50:342036] [Tid0x00000dbc] [debug] <--[C416] DL_GetCount
+[0001119] [11:09:50:342036] [Tid0x00000dbc] [debug] -->[C417] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001120] [11:09:50:342036] [Tid0x00000dbc] [debug] <--[C417] DL_Rom_GetInfoAll
+[0001121] [11:09:50:342036] [Tid0x00000dbc] [debug] -->[C418] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001122] [11:09:50:342036] [Tid0x00000dbc] [debug] <--[C418] DL_Rom_SetEnableAttr
+[0001123] [11:09:50:342036] [Tid0x00000dbc] [debug] -->[C419] DL_GetCount #(api.cpp, line:2621)
+[0001124] [11:09:50:357662] [Tid0x00000dbc] [debug] <--[C419] DL_GetCount
+[0001125] [11:09:50:357662] [Tid0x00000dbc] [debug] -->[C420] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001126] [11:09:50:357662] [Tid0x00000dbc] [debug] <--[C420] DL_Rom_GetInfoAll
+[0001127] [11:09:50:357662] [Tid0x00000dbc] [debug] -->[C421] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001128] [11:09:50:357662] [Tid0x00000dbc] [debug] <--[C421] DL_Rom_SetEnableAttr
+[0001129] [11:09:50:357662] [Tid0x00000dbc] [debug] -->[C422] DL_GetCount #(api.cpp, line:2621)
+[0001130] [11:09:50:357662] [Tid0x00000dbc] [debug] <--[C422] DL_GetCount
+[0001131] [11:09:50:357662] [Tid0x00000dbc] [debug] -->[C423] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001132] [11:09:50:357662] [Tid0x00000dbc] [debug] <--[C423] DL_Rom_GetInfoAll
+[0001133] [11:09:50:357662] [Tid0x00000dbc] [debug] -->[C424] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001134] [11:09:50:357662] [Tid0x00000dbc] [debug] <--[C424] DL_Rom_SetEnableAttr
+[0001135] [11:09:50:373284] [Tid0x00000dbc] [debug] -->[C425] DL_GetCount #(api.cpp, line:2621)
+[0001136] [11:09:50:373284] [Tid0x00000dbc] [debug] <--[C425] DL_GetCount
+[0001137] [11:09:50:373284] [Tid0x00000dbc] [debug] -->[C426] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001138] [11:09:50:373284] [Tid0x00000dbc] [debug] <--[C426] DL_Rom_GetInfoAll
+[0001139] [11:09:50:373284] [Tid0x00000dbc] [debug] -->[C427] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001140] [11:09:50:373284] [Tid0x00000dbc] [debug] <--[C427] DL_Rom_SetEnableAttr
+[0001141] [11:09:50:373284] [Tid0x00000dbc] [debug] -->[C428] DL_GetCount #(api.cpp, line:2621)
+[0001142] [11:09:50:373284] [Tid0x00000dbc] [debug] <--[C428] DL_GetCount
+[0001143] [11:09:50:373284] [Tid0x00000dbc] [debug] -->[C429] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001144] [11:09:50:373284] [Tid0x00000dbc] [debug] <--[C429] DL_Rom_GetInfoAll
+[0001145] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C430] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001146] [11:09:50:388910] [Tid0x00000dbc] [debug] <--[C430] DL_Rom_SetEnableAttr
+[0001147] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C431] DL_GetCount #(api.cpp, line:2621)
+[0001148] [11:09:50:388910] [Tid0x00000dbc] [debug] <--[C431] DL_GetCount
+[0001149] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C432] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001150] [11:09:50:388910] [Tid0x00000dbc] [debug] <--[C432] DL_Rom_GetInfoAll
+[0001151] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C433] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001152] [11:09:50:388910] [Tid0x00000dbc] [debug] <--[C433] DL_Rom_SetEnableAttr
+[0001153] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C434] DL_GetCount #(api.cpp, line:2621)
+[0001154] [11:09:50:388910] [Tid0x00000dbc] [debug] <--[C434] DL_GetCount
+[0001155] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C435] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001156] [11:09:50:388910] [Tid0x00000dbc] [debug] <--[C435] DL_Rom_GetInfoAll
+[0001157] [11:09:50:388910] [Tid0x00000dbc] [debug] -->[C436] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001158] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C436] DL_Rom_SetEnableAttr
+[0001159] [11:09:50:404538] [Tid0x00000dbc] [debug] -->[C437] DL_GetCount #(api.cpp, line:2621)
+[0001160] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C437] DL_GetCount
+[0001161] [11:09:50:404538] [Tid0x00000dbc] [debug] -->[C438] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001162] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C438] DL_Rom_GetInfoAll
+[0001163] [11:09:50:404538] [Tid0x00000dbc] [debug] -->[C439] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001164] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C439] DL_Rom_SetEnableAttr
+[0001165] [11:09:50:404538] [Tid0x00000dbc] [debug] -->[C440] DL_GetCount #(api.cpp, line:2621)
+[0001166] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C440] DL_GetCount
+[0001167] [11:09:50:404538] [Tid0x00000dbc] [debug] -->[C441] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001168] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C441] DL_Rom_GetInfoAll
+[0001169] [11:09:50:404538] [Tid0x00000dbc] [debug] -->[C442] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001170] [11:09:50:404538] [Tid0x00000dbc] [debug] <--[C442] DL_Rom_SetEnableAttr
+[0001171] [11:09:50:420162] [Tid0x00000dbc] [debug] -->[C443] DL_GetCount #(api.cpp, line:2621)
+[0001172] [11:09:50:420162] [Tid0x00000dbc] [debug] <--[C443] DL_GetCount
+[0001173] [11:09:50:420162] [Tid0x00000dbc] [debug] -->[C444] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001174] [11:09:50:420162] [Tid0x00000dbc] [debug] <--[C444] DL_Rom_GetInfoAll
+[0001175] [11:09:50:420162] [Tid0x00000dbc] [debug] -->[C445] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001176] [11:09:50:420162] [Tid0x00000dbc] [debug] <--[C445] DL_Rom_SetEnableAttr
+[0001177] [11:09:50:420162] [Tid0x00000dbc] [debug] -->[C446] DL_GetCount #(api.cpp, line:2621)
+[0001178] [11:09:50:420162] [Tid0x00000dbc] [debug] <--[C446] DL_GetCount
+[0001179] [11:09:50:420162] [Tid0x00000dbc] [debug] -->[C447] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001180] [11:09:50:420162] [Tid0x00000dbc] [debug] <--[C447] DL_Rom_GetInfoAll
+[0001181] [11:09:50:420162] [Tid0x00000dbc] [debug] -->[C448] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001182] [11:09:50:420162] [Tid0x00000dbc] [debug] <--[C448] DL_Rom_SetEnableAttr
+[0001183] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C449] DL_GetCount #(api.cpp, line:2621)
+[0001184] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C449] DL_GetCount
+[0001185] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C450] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001186] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C450] DL_Rom_GetInfoAll
+[0001187] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C451] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001188] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C451] DL_Rom_SetEnableAttr
+[0001189] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C452] DL_GetCount #(api.cpp, line:2621)
+[0001190] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C452] DL_GetCount
+[0001191] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C453] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001192] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C453] DL_Rom_GetInfoAll
+[0001193] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C454] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001194] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C454] DL_Rom_SetEnableAttr
+[0001195] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C455] DL_GetCount #(api.cpp, line:2621)
+[0001196] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C455] DL_GetCount
+[0001197] [11:09:50:435786] [Tid0x00000dbc] [debug] -->[C456] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001198] [11:09:50:435786] [Tid0x00000dbc] [debug] <--[C456] DL_Rom_GetInfoAll
+[0001199] [11:09:50:451411] [Tid0x00000dbc] [debug] -->[C457] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001200] [11:09:50:451411] [Tid0x00000dbc] [debug] <--[C457] DL_Rom_SetEnableAttr
+[0001201] [11:09:50:451411] [Tid0x00000dbc] [debug] -->[C458] DL_GetCount #(api.cpp, line:2621)
+[0001202] [11:09:50:451411] [Tid0x00000dbc] [debug] <--[C458] DL_GetCount
+[0001203] [11:09:50:451411] [Tid0x00000dbc] [debug] -->[C459] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001204] [11:09:50:451411] [Tid0x00000dbc] [debug] <--[C459] DL_Rom_GetInfoAll
+[0001205] [11:09:50:451411] [Tid0x00000dbc] [debug] -->[C460] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001206] [11:09:50:451411] [Tid0x00000dbc] [debug] <--[C460] DL_Rom_SetEnableAttr
+[0001207] [11:09:50:451411] [Tid0x00000dbc] [debug] -->[C461] DL_GetCount #(api.cpp, line:2621)
+[0001208] [11:09:50:451411] [Tid0x00000dbc] [debug] <--[C461] DL_GetCount
+[0001209] [11:09:50:451411] [Tid0x00000dbc] [debug] -->[C462] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001210] [11:09:50:451411] [Tid0x00000dbc] [debug] <--[C462] DL_Rom_GetInfoAll
+[0001211] [11:09:50:467037] [Tid0x00000dbc] [debug] -->[C463] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001212] [11:09:50:467037] [Tid0x00000dbc] [debug] <--[C463] DL_Rom_SetEnableAttr
+[0001213] [11:09:50:467037] [Tid0x00000dbc] [debug] -->[C464] DL_GetCount #(api.cpp, line:2621)
+[0001214] [11:09:50:467037] [Tid0x00000dbc] [debug] <--[C464] DL_GetCount
+[0001215] [11:09:50:467037] [Tid0x00000dbc] [debug] -->[C465] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001216] [11:09:50:467037] [Tid0x00000dbc] [debug] <--[C465] DL_Rom_GetInfoAll
+[0001217] [11:09:50:467037] [Tid0x00000dbc] [debug] -->[C466] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001218] [11:09:50:467037] [Tid0x00000dbc] [debug] <--[C466] DL_Rom_SetEnableAttr
+[0001219] [11:09:50:482661] [Tid0x00000dbc] [debug] -->[C467] DL_GetCount #(api.cpp, line:2621)
+[0001220] [11:09:50:482661] [Tid0x00000dbc] [debug] <--[C467] DL_GetCount
+[0001221] [11:09:50:482661] [Tid0x00000dbc] [debug] -->[C468] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001222] [11:09:50:482661] [Tid0x00000dbc] [debug] <--[C468] DL_Rom_GetInfoAll
+[0001223] [11:09:50:482661] [Tid0x00000dbc] [debug] -->[C469] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001224] [11:09:50:482661] [Tid0x00000dbc] [debug] <--[C469] DL_Rom_SetEnableAttr
+[0001225] [11:09:50:482661] [Tid0x00000dbc] [debug] -->[C470] DL_GetCount #(api.cpp, line:2621)
+[0001226] [11:09:50:482661] [Tid0x00000dbc] [debug] <--[C470] DL_GetCount
+[0001227] [11:09:50:482661] [Tid0x00000dbc] [debug] -->[C471] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001228] [11:09:50:482661] [Tid0x00000dbc] [debug] <--[C471] DL_Rom_GetInfoAll
+[0001229] [11:09:50:482661] [Tid0x00000dbc] [debug] -->[C472] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001230] [11:09:50:482661] [Tid0x00000dbc] [debug] <--[C472] DL_Rom_SetEnableAttr
+[0001231] [11:09:50:498284] [Tid0x00000dbc] [debug] -->[C473] DL_GetCount #(api.cpp, line:2621)
+[0001232] [11:09:50:498284] [Tid0x00000dbc] [debug] <--[C473] DL_GetCount
+[0001233] [11:09:50:498284] [Tid0x00000dbc] [debug] -->[C474] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001234] [11:09:50:498284] [Tid0x00000dbc] [debug] <--[C474] DL_Rom_GetInfoAll
+[0001235] [11:09:50:498284] [Tid0x00000dbc] [debug] -->[C475] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001236] [11:09:50:498284] [Tid0x00000dbc] [debug] <--[C475] DL_Rom_SetEnableAttr
+[0001237] [11:09:50:498284] [Tid0x00000dbc] [debug] -->[C476] DL_GetCount #(api.cpp, line:2621)
+[0001238] [11:09:50:498284] [Tid0x00000dbc] [debug] <--[C476] DL_GetCount
+[0001239] [11:09:50:498284] [Tid0x00000dbc] [debug] -->[C477] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001240] [11:09:50:498284] [Tid0x00000dbc] [debug] <--[C477] DL_Rom_GetInfoAll
+[0001241] [11:09:50:513908] [Tid0x00000dbc] [debug] -->[C478] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001242] [11:09:50:513908] [Tid0x00000dbc] [debug] <--[C478] DL_Rom_SetEnableAttr
+[0001243] [11:09:50:513908] [Tid0x00000dbc] [debug] -->[C479] DL_GetCount #(api.cpp, line:2621)
+[0001244] [11:09:50:513908] [Tid0x00000dbc] [debug] <--[C479] DL_GetCount
+[0001245] [11:09:50:513908] [Tid0x00000dbc] [debug] -->[C480] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001246] [11:09:50:513908] [Tid0x00000dbc] [debug] <--[C480] DL_Rom_GetInfoAll
+[0001247] [11:09:50:513908] [Tid0x00000dbc] [debug] -->[C481] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001248] [11:09:50:513908] [Tid0x00000dbc] [debug] <--[C481] DL_Rom_SetEnableAttr
+[0001249] [11:09:50:529530] [Tid0x00000dbc] [debug] -->[C482] DL_GetCount #(api.cpp, line:2621)
+[0001250] [11:09:50:529530] [Tid0x00000dbc] [debug] <--[C482] DL_GetCount
+[0001251] [11:09:50:529530] [Tid0x00000dbc] [debug] -->[C483] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001252] [11:09:50:529530] [Tid0x00000dbc] [debug] <--[C483] DL_Rom_GetInfoAll
+[0001253] [11:09:50:529530] [Tid0x00000dbc] [debug] -->[C484] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001254] [11:09:50:529530] [Tid0x00000dbc] [debug] <--[C484] DL_Rom_SetEnableAttr
+[0001255] [11:09:50:529530] [Tid0x00000dbc] [debug] -->[C485] DL_GetCount #(api.cpp, line:2621)
+[0001256] [11:09:50:529530] [Tid0x00000dbc] [debug] <--[C485] DL_GetCount
+[0001257] [11:09:50:529530] [Tid0x00000dbc] [debug] -->[C486] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001258] [11:09:50:529530] [Tid0x00000dbc] [debug] <--[C486] DL_Rom_GetInfoAll
+[0001259] [11:09:50:545155] [Tid0x00000dbc] [debug] -->[C487] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001260] [11:09:50:545155] [Tid0x00000dbc] [debug] <--[C487] DL_Rom_SetEnableAttr
+[0001261] [11:09:50:545155] [Tid0x00000dbc] [debug] -->[C488] DL_GetCount #(api.cpp, line:2621)
+[0001262] [11:09:50:545155] [Tid0x00000dbc] [debug] <--[C488] DL_GetCount
+[0001263] [11:09:50:545155] [Tid0x00000dbc] [debug] -->[C489] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001264] [11:09:50:545155] [Tid0x00000dbc] [debug] <--[C489] DL_Rom_GetInfoAll
+[0001265] [11:09:50:545155] [Tid0x00000dbc] [debug] -->[C490] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001266] [11:09:50:545155] [Tid0x00000dbc] [debug] <--[C490] DL_Rom_SetEnableAttr
+[0001267] [11:09:50:560782] [Tid0x00000dbc] [debug] -->[C491] DL_GetCount #(api.cpp, line:2621)
+[0001268] [11:09:50:560782] [Tid0x00000dbc] [debug] <--[C491] DL_GetCount
+[0001269] [11:09:50:560782] [Tid0x00000dbc] [debug] -->[C492] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001270] [11:09:50:560782] [Tid0x00000dbc] [debug] <--[C492] DL_Rom_GetInfoAll
+[0001271] [11:09:50:560782] [Tid0x00000dbc] [debug] -->[C493] DL_Rom_SetEnableAttr #(api.cpp, line:2840)
+[0001272] [11:09:50:560782] [Tid0x00000dbc] [debug] <--[C493] DL_Rom_SetEnableAttr
+[0001273] [11:09:53:570587] [Tid0x00000dbc] [debug] -->[C494] DL_GetCount #(api.cpp, line:2621)
+[0001274] [11:09:53:570587] [Tid0x00000dbc] [debug] <--[C494] DL_GetCount
+[0001275] [11:09:53:570587] [Tid0x00000dbc] [debug] -->[C495] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001276] [11:09:53:570587] [Tid0x00000dbc] [debug] <--[C495] DL_Rom_GetInfoAll
+[0001277] [11:09:53:586211] [Tid0x00000dbc] [debug] -->[C496] DL_GetCount #(api.cpp, line:2621)
+[0001278] [11:09:53:586211] [Tid0x00000dbc] [debug] <--[C496] DL_GetCount
+[0001279] [11:09:53:586211] [Tid0x00000dbc] [debug] -->[C497] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001280] [11:09:53:586211] [Tid0x00000dbc] [debug] <--[C497] DL_Rom_GetInfoAll
+[0001281] [11:10:33:887696] [Tid0x00002088] [debug] -->[C498] FlashTool_Connect_BROM_ByName #(api.cpp, line:1970)
+[0001282] [11:10:33:887696] [Tid0x00002088] [debug] -->[C499] FlashTool_Connect_BROM_Ex #(api.cpp, line:1875)
+[0001283] [11:10:33:887696] [Tid0x00002088] [debug] bCheckScatter: 1 #(api.cpp, line:1876)
+[0001284] [11:10:33:887696] [Tid0x00002088] [debug] have load scatter already #(api.cpp, line:1880)
+[0001285] [11:10:33:887696] [Tid0x00002088] [debug] libversion 2 #(api.cpp, line:1897)
+[0001286] [11:10:33:887696] [Tid0x00002088] [debug] -->[C500] cflashtool_api::FlashTool_Connect_BROM_Ex #(cflashtool_api.cpp, line:1008)
+[0001287] [11:10:33:903317] [Tid0x00002088] [warning] Get support Modem fail: 0xc0010007 #(cflashtool_api.cpp, line:1129)
+[0001288] [11:10:33:903317] [Tid0x00002088] [debug] connect_brom_ex OK #(cflashtool_api.cpp, line:1172)
+[0001289] [11:10:33:903317] [Tid0x00002088] [debug] <--[C500] cflashtool_api::FlashTool_Connect_BROM_Ex
+[0001290] [11:10:33:903317] [Tid0x00002088] [debug] <--[C499] FlashTool_Connect_BROM_Ex
+[0001291] [11:10:33:903317] [Tid0x00002088] [debug] <--[C498] FlashTool_Connect_BROM_ByName
+[0001292] [11:10:33:903317] [Tid0x00002088] [debug] -->[C501] FlashTool_GetBootResult #(api.cpp, line:1982)
+[0001293] [11:10:33:903317] [Tid0x00002088] [debug] <--[C501] FlashTool_GetBootResult
+[0001294] [11:10:33:903317] [Tid0x00002088] [debug] -->[C502] FlashTool_Connect_Download_DA #(api.cpp, line:2002)
+[0001295] [11:10:33:903317] [Tid0x00002088] [debug] bCheckScatter: 1 #(api.cpp, line:2003)
+[0001296] [11:10:33:903317] [Tid0x00002088] [debug] -->[C503] cflashtool_api::FlashTool_Connect_Download_DA #(cflashtool_api.cpp, line:1317)
+[0001297] [11:10:33:903317] [Tid0x00002088] [debug] bCheckScatter: 1 #(cflashtool_api.cpp, line:1318)
+[0001298] [11:10:33:903317] [Tid0x00002088] [debug] da_source type: 0 #(cflashtool_api.cpp, line:1333)
+[0001299] [11:10:33:903317] [Tid0x00002088] [debug] enable PCDRAM checksum #(cflashtool_api.cpp, line:1380)
+[0001300] [11:10:33:903317] [Tid0x00002088] [debug] checksum_level: 7,  battery_setting: 2, reset_key_setting: 104 #(cflashtool_api.cpp, line:1434)
+[0001301] [11:10:33:903317] [Tid0x00002088] [debug] connect_da_end_stage: 2,  enable_dram_in_1st_da: 0, da_log_level: 2 #(cflashtool_api.cpp, line:1436)
+[0001302] [11:10:38:016167] [Tid0x00002088] [debug] gpx_count: 0 #(cflashtool_api.cpp, line:1472)
+[0001303] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_cid[0]: 0x47000115 #(cflashtool_api.cpp, line:1536)
+[0001304] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_cid[1]: 0x4d423658 #(cflashtool_api.cpp, line:1536)
+[0001305] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_cid[2]: 0x23fd0342 #(cflashtool_api.cpp, line:1536)
+[0001306] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_cid[3]: 0x6f943df2 #(cflashtool_api.cpp, line:1536)
+[0001307] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[0]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001308] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[1]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001309] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[2]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001310] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[3]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001311] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[4]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001312] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[5]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001313] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[6]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001314] [11:10:38:031798] [Tid0x00002088] [debug] m_emmc_fwver[7]: 0x0 #(cflashtool_api.cpp, line:1542)
+[0001315] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: BBCHIP_TYPE: MT6757 #(cflashtool_api.cpp, line:1228)
+[0001316] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: BBCHIP: "MT6757", EXT_26M 
+[0001317] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: BBCHIP: CODE(0x6757), VER(0xCB00), SW(0x0001)              
+[0001318] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                  
+[0001319] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[0]="CS_0"(0x00)                   
+[0001320] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_chip_select[1]="CS_0"(0x00)                   
+[0001321] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_id(0x0000)="[AMD] AM29DL323D"                         
+[0001322] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_size(0x00000000)                              
+[0001323] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_1(0x0000)                        
+[0001324] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_2(0x0000)                        
+[0001325] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_3(0x0000)                        
+[0001326] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_dev_code_4(0x0000)                        
+[0001327] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_status="S_DONE"(0)                     
+[0001328] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NOR: m_nor_flash_otp_size(0x00000000)                          
+[0001329] [11:10:38:031798] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_ret="S_DA_INVALID_STORAGE_TYPE"(3178)                                
+[0001330] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_chip_select="CS_0"(0x00)                    
+[0001331] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id(0x0000)="[SAMSUNG] K9F5608Q0C"                       
+[0001332] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_size(0x0000000000000000)                        
+[0001333] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_flash_id_count(0x0000)                        
+[0001334] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pagesize(0)                                  
+[0001335] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_sparesize(0)                                 
+[0001336] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_pages_per_block(0)                           
+[0001337] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_io_interface( )                              
+[0001338] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_addr_cycle( )                                
+[0001339] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: NAND: m_nand_bmt_exist( )                                
+[0001340] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ret="S_DONE"(0)          
+[0001341] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot1_size(0x00400000)      
+[0001342] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_boot2_size(0x00400000)      
+[0001343] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_rpmb_size(0x00400000)       
+[0001344] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp1_size(0x00000000)        
+[0001345] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp2_size(0x00000000)        
+[0001346] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp3_size(0x00000000)        
+[0001347] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_gp4_size(0x00000000)        
+[0001348] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_ua_size(0x0000000747C00000)      
+[0001349] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: eMMC: m_emmc_cid(0x47000115 0x4D423658 0x23FD0342 0x6F943DF2)      
+[0001350] [11:10:38:047420] [Tid0x00002088] [debug] DA_REPORT: eMMC: m_emmc_fwver(0x0  0x0  0x0  0x0  0x0  0x0  0x0  0x0 )      
+[0001351] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ret="S_DA_INVALID_STORAGE_TYPE"(3178)          
+[0001352] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_ua_size(0x0000000000000000)      
+[0001353] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: SDMMC: m_sdmmc_cid(0x00000000 0x00000000 0x00000000 0x00000000)      
+[0001354] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_ret="S_DONE"(0)                         
+[0001355] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: INT_RAM: m_int_sram_size(0x00000000)                           
+[0001356] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_ret="S_DONE"(0)                          
+[0001357] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_type(0x02)="HW_RAM_DRAM"                     
+[0001358] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_chip_select(0x00)="CS_0"              
+[0001359] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: EXT_RAM: m_ext_ram_size(0x80000000)                            
+[0001360] [11:10:38:047420] [Tid0x00002088] [debug] SyncWithDA(): DA_REPORT: RandomID: 0xE7384548 0x072A6AB3 0xD89D7810 0x9C7951FE
+[0001361] [11:10:38:047420] [Tid0x00002088] [debug] <--[C503] cflashtool_api::FlashTool_Connect_Download_DA
+[0001362] [11:10:38:047420] [Tid0x00002088] [debug] <--[C502] FlashTool_Connect_Download_DA
+[0001363] [11:10:38:047420] [Tid0x00002088] [debug] -->[C504] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0001364] [11:10:38:047420] [Tid0x00002088] [debug] -->[C505] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0001365] [11:10:38:047420] [Tid0x00002088] [debug] <--[C505] cflashtool_api::FlashTool_CheckUSBStatus
+[0001366] [11:10:38:047420] [Tid0x00002088] [debug] <--[C504] FlashTool_CheckUSBStatus
+[0001367] [11:10:38:047420] [Tid0x00002088] [debug] -->[C506] FlashTool_CheckUSBStatus #(api.cpp, line:1154)
+[0001368] [11:10:38:047420] [Tid0x00002088] [debug] -->[C507] cflashtool_api::FlashTool_CheckUSBStatus #(cflashtool_api.cpp, line:114)
+[0001369] [11:10:38:047420] [Tid0x00002088] [debug] <--[C507] cflashtool_api::FlashTool_CheckUSBStatus
+[0001370] [11:10:38:047420] [Tid0x00002088] [debug] <--[C506] FlashTool_CheckUSBStatus
+[0001371] [11:10:38:047420] [Tid0x00002088] [debug] -->[C508] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0001372] [11:10:38:047420] [Tid0x00002088] [debug] <--[C508] FlashTool_GetReservedRomSize
+[0001373] [11:10:38:047420] [Tid0x00002088] [debug] -->[C509] FlashTool_Format #(api.cpp, line:1346)
+[0001374] [11:10:38:047420] [Tid0x00002088] [debug] -->[C510] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0001375] [11:10:38:078671] [Tid0x00002088] [debug] <--[C510] cflashtool_api::FlashTool_Format
+[0001376] [11:10:38:078671] [Tid0x00002088] [debug] <--[C509] FlashTool_Format
+[0001377] [11:10:38:078671] [Tid0x00002088] [debug] -->[C511] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0001378] [11:10:38:078671] [Tid0x00002088] [debug] <--[C511] FlashTool_GetReservedRomSize
+[0001379] [11:10:38:078671] [Tid0x00002088] [debug] -->[C512] FlashTool_Format #(api.cpp, line:1346)
+[0001380] [11:10:38:078671] [Tid0x00002088] [debug] -->[C513] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0001381] [11:10:38:094292] [Tid0x00002088] [debug] <--[C513] cflashtool_api::FlashTool_Format
+[0001382] [11:10:38:094292] [Tid0x00002088] [debug] <--[C512] FlashTool_Format
+[0001383] [11:10:38:094292] [Tid0x00002088] [debug] -->[C514] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0001384] [11:10:38:094292] [Tid0x00002088] [debug] <--[C514] FlashTool_GetReservedRomSize
+[0001385] [11:10:38:094292] [Tid0x00002088] [debug] -->[C515] FlashTool_Format #(api.cpp, line:1346)
+[0001386] [11:10:38:094292] [Tid0x00002088] [debug] -->[C516] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0001387] [11:10:38:109916] [Tid0x00002088] [debug] <--[C516] cflashtool_api::FlashTool_Format
+[0001388] [11:10:38:109916] [Tid0x00002088] [debug] <--[C515] FlashTool_Format
+[0001389] [11:10:38:109916] [Tid0x00002088] [debug] -->[C517] FlashTool_GetReservedRomSize #(api.cpp, line:1677)
+[0001390] [11:10:38:109916] [Tid0x00002088] [debug] <--[C517] FlashTool_GetReservedRomSize
+[0001391] [11:10:38:109916] [Tid0x00002088] [debug] -->[C518] FlashTool_Format #(api.cpp, line:1346)
+[0001392] [11:10:38:109916] [Tid0x00002088] [debug] -->[C519] cflashtool_api::FlashTool_Format #(cflashtool_api.cpp, line:662)
+[0001393] [11:10:39:375501] [Tid0x00002088] [debug] <--[C519] cflashtool_api::FlashTool_Format
+[0001394] [11:10:39:375501] [Tid0x00002088] [debug] <--[C518] FlashTool_Format
+[0001395] [11:10:39:375501] [Tid0x00002088] [debug] -->[C520] FlashTool_Download #(api.cpp, line:1300)
+[0001396] [11:10:39:375501] [Tid0x00002088] [debug] -->[C521] cflashtool_api::FlashTool_Download #(cflashtool_api.cpp, line:404)
+[0001397] [11:10:39:375501] [Tid0x00002088] [debug] -->[C522] DL_GetCount #(api.cpp, line:2621)
+[0001398] [11:10:39:375501] [Tid0x00002088] [debug] <--[C522] DL_GetCount
+[0001399] [11:10:39:375501] [Tid0x00002088] [debug] -->[C523] DL_Rom_GetInfoAll #(api.cpp, line:2786)
+[0001400] [11:10:39:375501] [Tid0x00002088] [debug] <--[C523] DL_Rom_GetInfoAll
+[0001401] [11:23:03:963445] [Tid0x00002088] [debug] <--[C521] cflashtool_api::FlashTool_Download
+[0001402] [11:23:03:963445] [Tid0x00002088] [debug] <--[C520] FlashTool_Download
+[0001403] [11:23:03:979069] [Tid0x00002088] [debug] -->[C524] FlashTool_Disconnect #(api.cpp, line:1033)
+[0001404] [11:23:03:979069] [Tid0x00002088] [debug] -->[C525] cflashtool_api::FlashTool_Disconnect #(cflashtool_api.cpp, line:34)
+[0001405] [11:23:03:994693] [Tid0x00002088] [debug] -->[C526] DL_ClearFTHandle #(api.cpp, line:2545)
+[0001406] [11:23:03:994693] [Tid0x00002088] [debug] <--[C526] DL_ClearFTHandle
+[0001407] [11:23:03:994693] [Tid0x00002088] [debug] <--[C525] cflashtool_api::FlashTool_Disconnect
+[0001408] [11:23:03:994693] [Tid0x00002088] [debug] <--[C524] FlashTool_Disconnect
+[0001409] [11:23:07:986989] [Tid0x00000dbc] [debug] -->[C527] DL_Rom_UnloadAll #(api.cpp, line:2829)
+[0001410] [11:23:07:986989] [Tid0x00000dbc] [debug] <--[C527] DL_Rom_UnloadAll
